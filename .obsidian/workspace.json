@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb50fa4ff8a1b81e",
+        "id": "383441511201f4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "390a6ff6807c06d9",
+            "id": "33941306981d1538",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +179,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5668f398365a952d",
+  "active": "33941306981d1538",
   "lastOpenFiles": [
-    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
     "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
+    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
