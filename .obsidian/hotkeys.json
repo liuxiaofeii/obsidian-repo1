@@ -2,9 +2,9 @@
   "keyboard-analyzer:show-shortcuts-analyzer-view": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "1"
+      "key": "K"
     }
   ]
 }
