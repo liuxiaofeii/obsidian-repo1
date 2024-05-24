@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "383441511201f4c3",
+        "id": "b6750feca50c985a",
         "type": "tabs",
         "children": [
           {
-            "id": "33941306981d1538",
+            "id": "63c7734499b9f56e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md"
-              }
+              "type": "keyboard-shortcuts-visualization",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +173,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "33941306981d1538",
+  "active": "63c7734499b9f56e",
   "lastOpenFiles": [
     "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
     "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
