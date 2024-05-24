@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -154,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "2b7785cd7b1d5b8a",
   "lastOpenFiles": [
     "未命名 1.md",
     "未命名.md",
