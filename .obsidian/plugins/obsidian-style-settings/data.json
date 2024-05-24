@@ -6,5 +6,18 @@
   "blue-topaz-theme@@rainbow-checklist": false,
   "blue-topaz-theme@@style-options-for-buttons-plugin": true,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "shimmering-focus@@show-sidebar-header-buttons": false
+  "shimmering-focus@@show-sidebar-header-buttons": false,
+  "ITS@@bttn@@light": "#3AA9E2",
+  "ITS@@nav-item-background-hover@@light": "#3AA9E2",
+  "ITS@@folder@@light": "#3AA9E2",
+  "ITS@@folder-open@@light": "#3AA9E2",
+  "ITS@@headers@@light": "#3AA9E2",
+  "ITS@@tag@@light": "#3AA9E2",
+  "ITS@@list-marker-color@@light": "#3AA9E2",
+  "ITS@@list-numbered-color@@light": "#3AA9E2",
+  "ITS@@code-text@@light": "#3AA9E2",
+  "ITS@@progress@@light": "#3AA9E2",
+  "ITS@@th@@light": "#3AA9E2",
+  "ITS@@table-header-text-color@@light": "#3AA9E2",
+  "ITS@@accent@@light": "#3AA9E2"
 }
