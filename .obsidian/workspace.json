@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b6750feca50c985a",
+        "id": "7c2f2315e8b514e7",
         "type": "tabs",
         "children": [
           {
-            "id": "63c7734499b9f56e",
+            "id": "8b193b23f28c0c39",
             "type": "leaf",
             "state": {
-              "type": "keyboard-shortcuts-visualization",
+              "type": "empty",
               "state": {}
             }
           }
@@ -173,7 +173,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "63c7734499b9f56e",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
     "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
