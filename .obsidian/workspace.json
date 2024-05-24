@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md"
+                "file": "Netty/Netty底层实现.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
+                "file": "Netty/Netty底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
+                "file": "Netty/Netty底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md"
+                "file": "Netty/Netty底层实现.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "8b193b23f28c0c39",
   "lastOpenFiles": [
     "未命名",
-    "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
+    "Netty/Netty底层实现.md",
     "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
     "Excalidraw",
