@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "7fff915c8fc04ae7",
   "lastOpenFiles": [
-    "未命名.md",
     "未命名 1.md",
+    "未命名.md",
     "未命名 1",
     "未命名/111.md",
     "未命名",
