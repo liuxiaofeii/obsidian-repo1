@@ -30,5 +30,8 @@
   "ITS@@text-highlight-bg-active@@light": "#109BE233",
   "ITS@@hvr@@light": "#109BE233",
   "ITS@@hvr-active@@light": "#109BE233",
-  "ITS@@graph-node@@light": "#3DBAF5"
+  "ITS@@graph-node@@light": "#3DBAF5",
+  "blue-topaz-theme@@setting-etc-pane-style": "setting-style-traditional",
+  "blue-topaz-theme@@bt-colorful-titlebar": false,
+  "blue-topaz-theme@@hide-titlebar-text": false
 }
