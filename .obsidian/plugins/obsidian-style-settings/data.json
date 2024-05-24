@@ -19,5 +19,16 @@
   "ITS@@progress@@light": "#3AA9E2",
   "ITS@@th@@light": "#3AA9E2",
   "ITS@@table-header-text-color@@light": "#3AA9E2",
-  "ITS@@accent@@light": "#3AA9E2"
+  "ITS@@accent@@light": "#3AA9E2",
+  "ITS@@lite-accent@@light": "#3AA9E2",
+  "ITS@@dark-accent@@light": "#3AA9E2",
+  "ITS@@outline@@light": "#3AA9E2",
+  "ITS@@fg@@light": "#3AA9E2",
+  "ITS@@theme-rainbow-1@@light": "#3AA9E2",
+  "ITS@@text-highlight-bg@@light": "#109BE233",
+  "ITS@@highlight@@light": "#109BE233",
+  "ITS@@text-highlight-bg-active@@light": "#109BE233",
+  "ITS@@hvr@@light": "#109BE233",
+  "ITS@@hvr-active@@light": "#109BE233",
+  "ITS@@graph-node@@light": "#3DBAF5"
 }
