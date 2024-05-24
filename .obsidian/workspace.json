@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4fa7997d8440f6e",
+        "id": "0c5e1a5090dac8ed",
         "type": "tabs",
         "children": [
           {
-            "id": "fe25f7d2f2f7891b",
+            "id": "48ac333ed46b4fc6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           }
         ]
@@ -140,6 +144,7 @@
   },
   "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
+    "未命名.md",
     "111"
   ]
 }
