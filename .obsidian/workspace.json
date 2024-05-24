@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2f2315e8b514e7",
+        "id": "0440a19135f4167c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b193b23f28c0c39",
+            "id": "a75a0fe40f6ac40e",
             "type": "leaf",
             "state": {
-              "type": "keyboard-shortcuts-visualization",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Netty/Netty底层实现.md"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Netty/Netty底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Netty/Netty底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Netty/Netty底层实现.md"
+              }
             }
           },
           {
@@ -173,7 +179,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b193b23f28c0c39",
+  "active": "a75a0fe40f6ac40e",
   "lastOpenFiles": [
     "Netty/Netty底层实现.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
