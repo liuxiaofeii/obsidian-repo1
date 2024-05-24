@@ -11,8 +11,12 @@
             "id": "48ac333ed46b4fc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "未命名/111.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 569.5
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名/111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名/111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名/111.md"
+              }
             }
           },
           {
@@ -146,8 +154,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48ac333ed46b4fc6",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
+    "未命名/111.md",
     "未命名",
     "256",
     "未命名.md",
