@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c422ff7d6a32f85f",
+        "id": "bb50fa4ff8a1b81e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a268bc96eab15c",
+            "id": "390a6ff6807c06d9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,12 +174,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b0a268bc96eab15c",
+  "active": "390a6ff6807c06d9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-24 22.48.15.excalidraw.md",
+    "Excalidraw",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
+    "Netty",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
-    "Excalidraw",
     "Untitled/Untitled",
     "Untitled",
     "未命名 1.md",
@@ -201,7 +198,6 @@
     "未命名 7",
     "未命名 6",
     "未命名 5",
-    "未命名 4",
     "未命名/111.md"
   ]
 }
