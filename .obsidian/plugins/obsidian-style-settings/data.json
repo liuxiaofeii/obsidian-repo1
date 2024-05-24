@@ -1,3 +1,5 @@
 {
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false
 }
