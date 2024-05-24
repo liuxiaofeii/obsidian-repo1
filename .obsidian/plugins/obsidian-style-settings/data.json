@@ -1,5 +1,8 @@
 {
   "minimal-advanced@@cursor": "default",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
-  "blue-topaz-theme@@toggle-bg-panel-page": false
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@style-options-for-admonition-plugin": true,
+  "blue-topaz-theme@@rainbow-checklist": false,
+  "blue-topaz-theme@@style-options-for-buttons-plugin": true
 }
