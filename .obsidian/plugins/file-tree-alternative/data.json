@@ -13,7 +13,7 @@
   "folderIcon": "icomoon",
   "folderCount": true,
   "folderCountOption": "notes",
-  "evernoteView": "Vertical",
+  "evernoteView": "Disabled",
   "filePreviewOnHover": false,
   "iconBeforeFileName": false,
   "sortFilesBy": "file-size",
