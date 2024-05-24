@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "highlightr-plugin",
   "obsidian-excalidraw-plugin",
   "calendar",
   "file-tree-alternative",
-  "keyboard-analyzer"
+  "keyboard-analyzer",
+  "highlightr-plugin"
 ]
