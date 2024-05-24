@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "44e5e131f967ee65",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -136,6 +145,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6acb2ba5792faf37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -151,7 +168,9 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "2b7785cd7b1d5b8a",
