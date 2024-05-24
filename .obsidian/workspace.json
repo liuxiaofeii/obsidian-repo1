@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 330.5
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -180,7 +180,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe098795311fc8e4",
+  "active": "5668f398365a952d",
   "lastOpenFiles": [
     "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
     "Netty/Drawing 2024-05-24 22.49.38.excalidraw.md",
