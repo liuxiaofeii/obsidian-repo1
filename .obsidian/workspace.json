@@ -11,8 +11,10 @@
             "id": "56c308dffff1b9a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
+              }
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
               }
             }
           },
@@ -176,9 +180,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "44e5e131f967ee65",
+  "active": "56c308dffff1b9a2",
   "lastOpenFiles": [
     "Untitled.md",
+    "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
+    "Excalidraw",
+    "Untitled/Untitled",
     "Untitled",
     "未命名 1.md",
     "未命名.md",
@@ -194,8 +201,6 @@
     "未命名 6",
     "未命名 5",
     "未命名 4",
-    "未命名 3",
-    "未命名 2",
     "未命名/111.md"
   ]
 }
