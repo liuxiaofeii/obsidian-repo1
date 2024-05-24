@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0440a19135f4167c",
+        "id": "8db72b4e24dfb099",
         "type": "tabs",
         "children": [
           {
-            "id": "a75a0fe40f6ac40e",
+            "id": "5ed2fd73b1dc8c13",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -179,7 +179,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a75a0fe40f6ac40e",
+  "active": "5ed2fd73b1dc8c13",
   "lastOpenFiles": [
     "Netty/Netty底层实现.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
