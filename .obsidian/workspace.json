@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "526955466636ae00",
+        "id": "c422ff7d6a32f85f",
         "type": "tabs",
         "children": [
           {
-            "id": "56c308dffff1b9a2",
+            "id": "b0a268bc96eab15c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -180,10 +180,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "56c308dffff1b9a2",
+  "active": "b0a268bc96eab15c",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
+    "Untitled.md",
     "Excalidraw",
     "Untitled/Untitled",
     "Untitled",
