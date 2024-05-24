@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c5e1a5090dac8ed",
+        "id": "526955466636ae00",
         "type": "tabs",
         "children": [
           {
-            "id": "2b7785cd7b1d5b8a",
+            "id": "56c308dffff1b9a2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -159,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +176,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2b7785cd7b1d5b8a",
+  "active": "44e5e131f967ee65",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
     "未命名 1.md",
     "未命名.md",
     "未命名 2.md",
@@ -191,7 +196,6 @@
     "未命名 4",
     "未命名 3",
     "未命名 2",
-    "未命名 1",
     "未命名/111.md"
   ]
 }
