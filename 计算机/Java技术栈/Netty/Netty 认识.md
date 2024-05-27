@@ -1,10 +1,10 @@
 # 一、概念
-Netty的稳定版本：3.x、4.x（推荐），3.x到4.x是不兼容的升级。
-Netty4.x的新特性：
-模块化程度更高，包名由org.jboss
-大多API支持流式风格
-Buffer相关优化
-io.netty.util.concurrent包中提供了较多异步编程的数据结构
+### Netty的稳定版本：3.x、4.x（推荐），3.x到4.x是不兼容的升级。
+#### Netty4.x的新特性：
+模块化程度更高，包名由org.jboss.netty更新为io.netty;
+大多API支持流式风格;
+Buffer相关优化;
+io.netty.util.concurrent包中提供了较多异步编程的数据结构;
 # 二、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
 ### （1）易用性
