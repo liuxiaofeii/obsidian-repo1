@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9be0006f0d950de5",
+        "id": "878a9a742b705b76",
         "type": "tabs",
         "children": [
           {
-            "id": "47cb278be8244f71",
+            "id": "cda8b77ded20cf26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netty/Netty底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netty/Netty底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Netty/Netty底层实现.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,23 +175,41 @@
   },
   "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1716802336540.png",
     "Netty/Netty底层实现.md",
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+    "计算机/Java技术栈/Netty/底层实现",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
+    "计算机/Java技术栈/Netty",
+    "计算机/Java技术栈",
+    "计算机",
+    "英语/字典/T/T.md",
+    "英语/字典/T",
+    "英语/字典",
+    "英语",
+    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
+    "图床/1716802878593.png",
+    "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
+    "图床/1716802336540.png",
+    "图床",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "未命名",
     "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
-    "Netty",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
-    "Untitled/Untitled",
-    "Untitled",
     "未命名 1.md",
     "未命名.md",
     "未命名 2.md",
@@ -203,9 +217,6 @@
     "未命名 9/未命名.md",
     "未命名 8/未命名.md",
     "未命名 3.md",
-    "未命名 10",
-    "未命名 9",
-    "未命名 8",
     "未命名/111.md"
   ]
 }
