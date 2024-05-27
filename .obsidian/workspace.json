@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8db72b4e24dfb099",
+        "id": "9be0006f0d950de5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ed2fd73b1dc8c13",
+            "id": "47cb278be8244f71",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Netty/Netty底层实现.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5ed2fd73b1dc8c13",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "Netty/Netty底层实现.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
