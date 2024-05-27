@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7043bb118ca55948",
+        "id": "270c071ddd51d6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f54fdb516c473dd6",
+            "id": "3814a6e85f03d8e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,14 +173,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "3814a6e85f03d8e7",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
-    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "计算机/Java技术栈/Netty/底层实现",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
