@@ -11,8 +11,10 @@
             "id": "2d0feab448b80bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "计算机/Java技术栈/Netty/Netty底层实现.md"
+              }
             }
           }
         ]
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Dict/T/T.md",
+                "file": "计算机/Java技术栈/Netty/Netty底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Dict/T/T.md",
+                "file": "计算机/Java技术栈/Netty/Netty底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Dict/T/T.md"
+                "file": "计算机/Java技术栈/Netty/Netty底层实现.md"
               }
             }
           },
@@ -177,17 +179,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "2d0feab448b80bca",
   "lastOpenFiles": [
-    "计算机/未命名",
+    "英语/字典/T/T.md",
+    "英语",
+    "计算机/Java技术栈",
     "计算机",
-    "English Dict/T/T.md",
-    "English Dict/T",
+    "英语/字典/T",
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
-    "English Dict",
-    "Netty/Netty底层实现.md",
-    "Netty",
+    "英语/字典",
+    "计算机/Java技术栈/Netty/Netty底层实现.md",
+    "计算机/Java技术栈/Netty",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -198,7 +201,6 @@
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "Untitled/Untitled",
-    "Untitled",
     "未命名 1.md",
     "未命名.md",
     "未命名 2.md",
@@ -206,7 +208,6 @@
     "未命名 9/未命名.md",
     "未命名 8/未命名.md",
     "未命名 3.md",
-    "未命名 10",
     "未命名/111.md"
   ]
 }
