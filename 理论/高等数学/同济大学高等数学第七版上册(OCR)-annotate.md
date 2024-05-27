@@ -123,3 +123,13 @@ annotate-target: 理论/高等数学/同济大学高等数学第七版上册(OCR
 >
 ^c5593896-2bcf-19c0
 
+>%%
+>```annotate-json
+>{"text":"数，","id":"ccd0d86d-0829-ba54","type":"underline","pdfName":"理论/高等数学/同济大学高等数学第七版上册(OCR).pdf","color":"rgb(255,255,0)","position":{"pageIndex":17,"rects":[[308.395,269.90200000000004,329.711,280.42800000000005]]},"dateCreated":1716821278700,"dateModified":1716821278700}
+>```
+>%%
+>*数，*
+>[[#^ccd0d86d-0829-ba54|展示标注]]
+>
+^ccd0d86d-0829-ba54
+
