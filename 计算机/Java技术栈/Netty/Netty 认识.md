@@ -29,6 +29,6 @@ Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
 #### 总结
 由于Tomcat在作为HTTP服务器的成熟度和稳定性更好，所以假如你仅仅只需要一个HTTP服务器，推荐使用Tomcat。但是，假如你需要做面向TCP的网络应用开发，那么推荐使用Netty。
 ## 3、Netty和Mina、Grizzly的对比
-
+Mina是Apache Directory服务底层的NIO框架。
 
 # 四、原理
