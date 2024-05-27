@@ -5,7 +5,7 @@
 模块化程度更高，包名由org.jboss.netty更新为io.netty;
 大多API支持流式风格;
 Buffer相关优化;
-![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716802878593.png)
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716802336540.png)
 io.netty.util.concurrent包中提供了较多异步编程的数据结构;
 # 二、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
@@ -37,18 +37,18 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 [[#1、Netty相比JDK NIO的突出优势]]
 2、社区成熟
 # 四、应用
-
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716802336540.png)
 # 五、原理
 ## 1、Netty整体结构
 ### （1）图示
-![[6e4c29ea3c46fd074a57bb80e10742b.png]]
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/6e4c29ea3c46fd074a57bb80e10742b.png)
 ### （2）主要组成
 核心层
 协议支持层
 传输服务层
 ## 2、Netty逻辑架构
 ### （1）图示
-![[4fc29e69d3360483b4d59e6cce9f985.png]]
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/4fc29e69d3360483b4d59e6cce9f985.png)
 ### （2）主要组成
 网络通信层
 事件调度层
