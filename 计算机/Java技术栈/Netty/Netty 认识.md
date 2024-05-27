@@ -1,5 +1,5 @@
 # 一、概念
-Netty的稳定版本：3.x、4.x
+Netty的稳定版本：3.x、4.x（推荐）
 
 # 二、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
