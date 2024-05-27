@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -181,7 +182,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "72bc95cb7585852a",
   "lastOpenFiles": [
     "图床/4fc29e69d3360483b4d59e6cce9f985.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",

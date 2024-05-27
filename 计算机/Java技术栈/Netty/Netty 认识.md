@@ -47,4 +47,7 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 协议支持层
 传输服务层
 ## 2、Netty逻辑架构
+### （1）图示
 ![[4fc29e69d3360483b4d59e6cce9f985.png]]
+### （2）主要组成
+网络通信层
