@@ -11,8 +11,12 @@
             "id": "b0a268bc96eab15c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English Dict/T.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Dict/T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English Dict/T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
+                "file": "English Dict/T.md"
               }
             }
           },
@@ -176,8 +182,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "44e5e131f967ee65",
+  "active": "b0a268bc96eab15c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
+    "English Dict/T.md",
     "English Dict",
     "Netty/Netty底层实现.md",
     "Netty",
@@ -188,7 +196,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "Untitled/Untitled",
@@ -203,7 +210,6 @@
     "未命名 10",
     "未命名 9",
     "未命名 8",
-    "未命名 7",
     "未命名/111.md"
   ]
 }
