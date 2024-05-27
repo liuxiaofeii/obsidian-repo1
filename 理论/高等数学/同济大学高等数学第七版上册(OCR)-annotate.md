@@ -135,11 +135,21 @@ annotate-target: 理论/高等数学/同济大学高等数学第七版上册(OCR
 
 >%%
 >```annotate-json
->{"id":"8453a01b-1fce-b8c7","type":"image","color":"rgb(255,255,0)","position":{"pageIndex":17,"rects":[[71.0665625,231.40012499999995,134.8165625,248.15012499999995]]},"dateCreated":1716821441485,"dateModified":1716821441485,"pdfName":"理论/高等数学/同济大学高等数学第七版上册(OCR).pdf","path":"理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png","imageAbsolutePath":"H:\\data\\obsidian-repo\\obsidian-repo1\\理论\\高等数学\\同济大学高等数学第七版上册(OCR)-1716821441485.png"}
+>{"id":"ac8fa609-ecec-7bea","type":"image","color":"rgb(255,255,0)","position":{"pageIndex":17,"rects":[[50.21161764705883,233.60876470588238,388.3292647058824,281.961705882353]]},"dateCreated":1716821546442,"dateModified":1716821546442,"pdfName":"理论/高等数学/同济大学高等数学第七版上册(OCR).pdf","path":"理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821546442.png","imageAbsolutePath":"H:\\data\\obsidian-repo\\obsidian-repo1\\理论\\高等数学\\同济大学高等数学第七版上册(OCR)-1716821546442.png"}
 >```
 >%%
->![[理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png]]
->[[#^8453a01b-1fce-b8c7|展示标注]]
+>![[理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821546442.png]]
+>[[#^ac8fa609-ecec-7bea|展示标注]]
 >
-^8453a01b-1fce-b8c7
+^ac8fa609-ecec-7bea
+
+>%%
+>```annotate-json
+>{"id":"6e7fb239-ca86-c52f","type":"image","color":"rgb(255,255,0)","position":{"pageIndex":20,"rects":[[122.21117647058826,155.3440588235294,148.6817647058824,164.16758823529415]]},"dateCreated":1716821621183,"dateModified":1716821621183,"pdfName":"理论/高等数学/同济大学高等数学第七版上册(OCR).pdf","path":"理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821621183.png","imageAbsolutePath":"H:\\data\\obsidian-repo\\obsidian-repo1\\理论\\高等数学\\同济大学高等数学第七版上册(OCR)-1716821621183.png"}
+>```
+>%%
+>![[理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821621183.png]]
+>[[#^6e7fb239-ca86-c52f|展示标注]]
+>
+^6e7fb239-ca86-c52f
 
