@@ -71,12 +71,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -180,7 +180,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2d0feab448b80bca",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "英语/字典/T/T.md",
     "英语",
