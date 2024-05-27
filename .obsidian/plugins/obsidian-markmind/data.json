@@ -16,7 +16,7 @@
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
   "setup": 1716816424605,
   "uid": "00p01100p01001200p01001000p01000r010011",
-  "onlyUseObsidianFolder": false,
+  "onlyUseObsidianFolder": true,
   "useMarkdownSaveAnnotation": "annos",
   "pdfjsPath": "947c0db9ff20a30fa4d6a8fecf297e1/H:/data/obsidian-repo/obsidian-repo1/.obsidian/pdfjs"
 }
