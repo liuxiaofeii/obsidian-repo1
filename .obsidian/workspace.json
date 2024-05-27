@@ -11,9 +11,11 @@
             "id": "ddcd02f330ef9745",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md"
+                "file": "理论/高等数学/未命名思维导图.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
