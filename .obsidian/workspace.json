@@ -11,8 +11,26 @@
             "id": "ffb87ebd56285410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "理论/高等数学/未命名思维导图.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5bc0f0424b5c0bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d550290970d796f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf"
+              }
             }
           }
         ]
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf"
+              }
             }
           },
           {
@@ -173,9 +195,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ffb87ebd56285410",
+  "active": "d550290970d796f9",
   "lastOpenFiles": [
     "理论/高等数学/未命名思维导图.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学",
@@ -193,7 +216,6 @@
     "理论/英语/字典/T/T.md",
     "理论/英语/字典/T",
     "理论/英语/字典",
-    "理论/英语",
     "图床/1716802878593.png",
     "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
     "图床/1716802336540.png",
