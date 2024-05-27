@@ -18,8 +18,11 @@
 ### （4）更低的资源消耗
 对象池复用技术；
 零拷贝技术；
-## 2、Netty和Tomcat的区别
-### （1）Tomcat
-一个HTTP Server，主要解决HTTP协议层
+## 2、Netty和Tomcat的最大区别：对通信协议的支持
+#### Tomcat
+一个HTTP Server，主要解决HTTP协议层的传输；
+#### Netty
+支持多种应用层的协议，比如HTTP协议、SSH、TLS/SSL等。
+
 
 # 四、原理
