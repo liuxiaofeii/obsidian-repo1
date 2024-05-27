@@ -17,5 +17,6 @@
   "setup": 1716816424605,
   "uid": "00p01100p01001200p01001000p01000r010011",
   "onlyUseObsidianFolder": false,
-  "useMarkdownSaveAnnotation": "annos"
+  "useMarkdownSaveAnnotation": "annos",
+  "pdfjsPath": "b76015a51d2740b53adf5215d0603cf/H:/data/obsidian-repo/obsidian-repo1/.obsidian/pdfjs"
 }

@@ -6,7 +6,6 @@
       {
         "id": "b82b5b82d57fc928",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "6369ce3fc57b804c",
@@ -15,6 +14,22 @@
               "type": "mindmapview",
               "state": {
                 "file": "理论/高等数学/未命名思维导图.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a3629d6845e8338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "883b0d77660f0489",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md"
               }
             }
           }
@@ -92,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md",
+                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md",
+                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md"
+                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md"
               }
             }
           },
@@ -180,11 +195,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6369ce3fc57b804c",
+  "active": "883b0d77660f0489",
   "lastOpenFiles": [
+    "理论/高等数学/未命名思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册.annos",
-    "理论/高等数学/未命名思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
