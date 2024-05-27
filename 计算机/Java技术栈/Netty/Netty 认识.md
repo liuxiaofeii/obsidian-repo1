@@ -21,12 +21,14 @@
 ## 2、Netty和Tomcat的最大区别：对通信协议的支持
 #### Tomcat
 一个HTTP Server，主要解决HTTP协议层的传输；
+Tomcat需要遵循Servlet规范。Tomcat3.0之前采用BIO。6.x版本之后支持NIO，性能得到较大提升。
 #### Netty
 支持多种应用层的协议，比如HTTP、SSH、TLS/SSL等协议；
 能够自定义应用层协议；
+Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
 总结：
 #### 总结
-Tomcat需要遵循Servlet规范。Tomcat3.0之前采用BIO。6.x版本之后支持NIO，性能得到较大提升。
-Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
-由于Tomcat在作为HTTP服务器的成熟度和稳定性更好，所以假如你仅仅只需要一个HTTP服务器，推荐使用Tomcat。
+
+
+由于Tomcat在作为HTTP服务器的成熟度和稳定性更好，所以假如你仅仅只需要一个HTTP服务器，推荐使用Tomcat。但是，假如你需要做面向TCP的网络应用开发，那么推荐使用Netty。
 # 四、原理
