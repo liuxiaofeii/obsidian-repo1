@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ac07e03b798ca7",
+        "id": "cf09a107d53467c9",
         "type": "tabs",
         "children": [
           {
-            "id": "67a6d13d9744f759",
+            "id": "779277003af26021",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,12 +181,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ac9493d6a213fc22",
+  "active": "779277003af26021",
   "lastOpenFiles": [
     "图床/1716802336540.png",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "图床",
     "1716802336540.png",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
