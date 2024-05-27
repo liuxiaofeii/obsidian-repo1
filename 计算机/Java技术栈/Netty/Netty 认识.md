@@ -22,7 +22,6 @@
 #### Tomcat
 一个HTTP Server，主要解决HTTP协议层的传输；
 #### Netty
-支持多种应用层的协议，比如HTTP协议、SSH、TLS/SSL等。
-
-
+支持多种应用层的协议，比如HTTP、SSH、TLS/SSL等协议；
+能够自定义应用层协议；
 # 四、原理
