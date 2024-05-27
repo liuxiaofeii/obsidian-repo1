@@ -27,4 +27,6 @@
 总结：
 #### 总结
 Tomcat需要遵循Servlet规范。Tomcat3.0之前采用BIO。6.x版本之后支持NIO，性能得到较大提升。
+Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
+由于Tomcat在作为HTTP服务器的成熟度和稳定性更好，所以假如你仅仅只需要一个HTTP服务器，推荐使用Tomcat。
 # 四、原理
