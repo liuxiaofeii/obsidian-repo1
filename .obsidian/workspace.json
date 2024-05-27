@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf09a107d53467c9",
+        "id": "258c77744621078d",
         "type": "tabs",
         "children": [
           {
-            "id": "779277003af26021",
+            "id": "f522aa8a141c433c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -181,11 +182,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "779277003af26021",
+  "active": "f522aa8a141c433c",
   "lastOpenFiles": [
-    "1716802878593.png",
-    "图床/1716802336540.png",
+    "图床/1716802878593.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",
+    "图床/1716802336540.png",
     "图床",
     "1716802336540.png",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
