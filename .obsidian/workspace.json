@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c422ff7d6a32f85f",
+        "id": "85dbb6cecafa2c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a268bc96eab15c",
+            "id": "2ee6ecc39373e384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Dict/T.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Dict/T.md",
+                "file": "English Dict/T/T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Dict/T.md",
+                "file": "English Dict/T/T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Dict/T.md"
+                "file": "English Dict/T/T.md"
               }
             }
           },
@@ -182,10 +178,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b0a268bc96eab15c",
+  "active": "44e5e131f967ee65",
   "lastOpenFiles": [
+    "English Dict/T",
+    "English Dict/T 1.md",
+    "English Dict/T/T.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
-    "English Dict/T.md",
     "English Dict",
     "Netty/Netty底层实现.md",
     "Netty",
