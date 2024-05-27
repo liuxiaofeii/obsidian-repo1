@@ -4,7 +4,7 @@
 # 二、核心知识
 
 
-# 三、Netty和JDK NIO、Tomcat的比较
+# 三、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
 ### （1）易用性
 屏蔽了NIO的复杂性；
@@ -28,4 +28,7 @@ Tomcat需要遵循Servlet规范。Tomcat3.0之前采用BIO。6.x版本之后支�
 Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
 #### 总结
 由于Tomcat在作为HTTP服务器的成熟度和稳定性更好，所以假如你仅仅只需要一个HTTP服务器，推荐使用Tomcat。但是，假如你需要做面向TCP的网络应用开发，那么推荐使用Netty。
+## 3、Netty和Mina、Grizzly的对比
+
+
 # 四、原理
