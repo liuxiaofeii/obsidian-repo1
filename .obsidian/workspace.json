@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8db72b4e24dfb099",
+        "id": "c422ff7d6a32f85f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ed2fd73b1dc8c13",
+            "id": "b0a268bc96eab15c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Netty/Netty底层实现.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,14 +62,15 @@
             }
           },
           {
-            "id": "5668f398365a952d",
+            "id": "44e5e131f967ee65",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netty/Netty底层实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netty/Netty底层实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netty/Netty底层实现.md"
+                "file": "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
               }
             }
           },
@@ -175,25 +172,22 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5ed2fd73b1dc8c13",
+  "active": "44e5e131f967ee65",
   "lastOpenFiles": [
     "Netty/Netty底层实现.md",
+    "Netty",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "未命名",
-    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
-    "Netty",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "Untitled/Untitled",
@@ -208,6 +202,7 @@
     "未命名 10",
     "未命名 9",
     "未命名 8",
+    "未命名 7",
     "未命名/111.md"
   ]
 }
