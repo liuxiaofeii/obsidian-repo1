@@ -11,9 +11,11 @@
             "id": "67a6d13d9744f759",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
               }
             }
           },
@@ -179,9 +181,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "67a6d13d9744f759",
   "lastOpenFiles": [
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
