@@ -15,5 +15,6 @@
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
   "setup": 1716816424605,
-  "uid": "00p01100p01001200p01001000p01000r010011"
+  "uid": "00p01100p01001200p01001000p01000r010011",
+  "onlyUseObsidianFolder": false
 }
