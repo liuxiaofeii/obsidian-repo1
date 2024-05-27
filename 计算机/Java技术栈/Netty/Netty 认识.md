@@ -35,4 +35,6 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 # 三、优势
 [[#1、Netty相比JDK NIO的突出优势]]
 2、社区成熟
-# 四、原理
+# 四、应用
+![[1716802878593.png]]
+# 五、原理
