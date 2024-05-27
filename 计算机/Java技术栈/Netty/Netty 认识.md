@@ -1,11 +1,12 @@
-# 一、概念
+
+#  一、概念
 
 ### Netty的稳定版本：3.x、4.x（推荐），3.x到4.x是不兼容的升级。
 #### Netty4.x的新特性：
 模块化程度更高，包名由org.jboss.netty更新为io.netty;
 大多API支持流式风格;
 Buffer相关优化;
-
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716802336540.png)
 io.netty.util.concurrent包中提供了较多异步编程的数据结构;
 # 二、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
@@ -51,6 +52,7 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/4fc29e69d3360483b4d59e6cce9f985.png)
 ### （2）主要组成
 网络通信层
+
 事件调度层
 
 
