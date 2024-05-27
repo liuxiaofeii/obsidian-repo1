@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aace3f207da5f769",
+        "id": "ed25653c2f814909",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1bd7671fcaef51",
+            "id": "ddcd02f330ef9745",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -180,10 +179,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7e1bd7671fcaef51",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学",
     "理论",
     "图床/未命名.md",
