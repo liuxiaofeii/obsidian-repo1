@@ -4,32 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b82b5b82d57fc928",
+        "id": "3bde592a1400554a",
         "type": "tabs",
         "children": [
           {
-            "id": "6369ce3fc57b804c",
+            "id": "501e0aeea4c74d16",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md"
+                "file": "理论/高等数学/未命名思维导图.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "6a3629d6845e8338",
+        "id": "8217bc414dd5e6a6",
         "type": "tabs",
         "children": [
           {
-            "id": "883b0d77660f0489",
+            "id": "d405a66e68a4d3d0",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md"
+                "file": "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md"
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
+                "file": "理论/高等数学/未命名思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
+                "file": "理论/高等数学/未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册-annotate.md"
+                "file": "理论/高等数学/未命名思维导图.md"
               }
             }
           },
@@ -195,14 +197,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "883b0d77660f0489",
+  "active": "501e0aeea4c74d16",
   "lastOpenFiles": [
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/未命名思维导图.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
+    "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册.annos",
-    "理论/高等数学/同济大学高等数学第七版上册.pdf",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学",
