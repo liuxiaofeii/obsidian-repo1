@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "258c77744621078d",
+        "id": "1a5daaf8a3530856",
         "type": "tabs",
         "children": [
           {
-            "id": "f522aa8a141c433c",
+            "id": "72bc95cb7585852a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -182,10 +181,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f522aa8a141c433c",
+  "active": "72bc95cb7585852a",
   "lastOpenFiles": [
-    "图床/1716802878593.png",
+    "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",
+    "图床/1716802878593.png",
     "图床/1716802336540.png",
     "图床",
     "1716802336540.png",

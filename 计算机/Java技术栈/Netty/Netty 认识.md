@@ -1,4 +1,5 @@
 # 一、概念
+
 ### Netty的稳定版本：3.x、4.x（推荐），3.x到4.x是不兼容的升级。
 #### Netty4.x的新特性：
 模块化程度更高，包名由org.jboss.netty更新为io.netty;
@@ -38,3 +39,5 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 # 四、应用
 ![[1716802878593.png]]
 # 五、原理
+## 1、整体结构
+![[6e4c29ea3c46fd074a57bb80e10742b.png]]
