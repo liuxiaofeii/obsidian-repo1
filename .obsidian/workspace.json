@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"图床/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7e1bd7671fcaef51",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "图床/未命名.md",
     "图床/4fc29e69d3360483b4d59e6cce9f985.png",
