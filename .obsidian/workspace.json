@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85dbb6cecafa2c8c",
+        "id": "164db1c62752b64b",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee6ecc39373e384",
+            "id": "2d0feab448b80bca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,15 +62,14 @@
             }
           },
           {
-            "id": "87b0aae47d70ee6c",
+            "id": "ac9493d6a213fc22",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Dict/T/T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English Dict/T/T.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English Dict/T/T.md"
+              }
             }
           },
           {
@@ -174,8 +177,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "fe098795311fc8e4",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
+    "计算机/未命名",
+    "计算机",
     "English Dict/T/T.md",
     "English Dict/T",
     "English Dict/T 1.md",
@@ -202,7 +207,6 @@
     "未命名 8/未命名.md",
     "未命名 3.md",
     "未命名 10",
-    "未命名 9",
     "未命名/111.md"
   ]
 }
