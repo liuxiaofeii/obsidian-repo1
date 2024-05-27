@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -182,8 +182,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "67a6d13d9744f759",
+  "active": "ac9493d6a213fc22",
   "lastOpenFiles": [
+    "图床/1716802336540.png",
+    "图床",
     "1716802336540.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
@@ -208,7 +210,6 @@
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
     "英语/字典",
-    "计算机/Java技术栈/Netty",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
