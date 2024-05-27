@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "164db1c62752b64b",
+        "id": "95be43802804b860",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0feab448b80bca",
+            "id": "9c0a31a0bf6c3892",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -180,8 +180,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2d0feab448b80bca",
+  "active": "9c0a31a0bf6c3892",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/Netty底层实现.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
@@ -199,7 +200,6 @@
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
     "英语/字典",
-    "计算机/Java技术栈/Netty/Netty底层实现.md",
     "计算机/Java技术栈/Netty",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
