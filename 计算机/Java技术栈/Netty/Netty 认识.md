@@ -1,4 +1,5 @@
 # 一、概念
+Netty的稳定版本：3.x、4.x
 
 # 二、Netty和JDK NIO、其他网络框架的比较
 ## 1、Netty相比JDK NIO的突出优势
@@ -27,5 +28,6 @@ Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
 ## 3、Netty和Mina、Grizzly的对比
 Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee的作品，所以两者在设计理念上基本一致，但是Netty是Mina的升级，解决了Mina一些设计上的问题，比如Netty提供可扩展的编解码接口、优化了ByteBuffer的分配方式，让用户使用起来更便捷、安全。而Grizzly出身于Sun公司，从设计理念上看，Grizzly没有Netty优雅，几乎是对JDK NIO的初级封装，目前业界使用的范围也比较小。
 # 三、优势
-
+[[#1、Netty相比JDK NIO的突出优势]]
+2、社区成熟
 # 四、原理
