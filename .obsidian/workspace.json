@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "316e874eb5e58c3e",
+        "id": "7043bb118ca55948",
         "type": "tabs",
         "children": [
           {
-            "id": "b77bbbfc42956dde",
+            "id": "f54fdb516c473dd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -179,7 +177,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b77bbbfc42956dde",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
