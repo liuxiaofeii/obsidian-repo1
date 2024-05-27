@@ -11,9 +11,9 @@
             "id": "ddcd02f330ef9745",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "mindmapview",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf"
+                "file": "理论/高等数学/未命名思维导图.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf",
+                "file": "理论/高等数学/未命名思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf",
+                "file": "理论/高等数学/未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf"
+                "file": "理论/高等数学/未命名思维导图.md"
               }
             }
           },
@@ -179,9 +179,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "ddcd02f330ef9745",
   "lastOpenFiles": [
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
+    "理论/高等数学/未命名思维导图.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学",
     "理论",
