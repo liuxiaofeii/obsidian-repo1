@@ -11,11 +11,9 @@
             "id": "7e1bd7671fcaef51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
-                "mode": "source",
-                "source": false
+                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "理论/高等数学/同济大学高等数学第七版上册.pdf"
               }
             }
           },
@@ -181,14 +179,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "7e1bd7671fcaef51",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学",
     "理论",
     "图床/未命名.md",
     "图床/4fc29e69d3360483b4d59e6cce9f985.png",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "conflict-files-obsidian-git.md",
     "1716802336540.png",
@@ -204,7 +202,6 @@
     "图床/1716802878593.png",
     "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
     "图床/1716802336540.png",
-    "图床",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
