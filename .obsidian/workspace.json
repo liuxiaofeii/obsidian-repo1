@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "图床/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "图床/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "图床/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "图床/未命名.md"
               }
             }
           },
@@ -183,12 +183,14 @@
   },
   "active": "10119b3c85c3b955",
   "lastOpenFiles": [
+    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
+    "图床/未命名.md",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "conflict-files-obsidian-git.md",
     "1716802336540.png",
     "Netty/Netty底层实现.md",
     "计算机/Java技术栈/Netty/底层实现",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty",
     "计算机/Java技术栈",
     "计算机",
@@ -196,7 +198,6 @@
     "英语/字典/T",
     "英语/字典",
     "英语",
-    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
     "图床/1716802878593.png",
     "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
     "图床/1716802336540.png",
