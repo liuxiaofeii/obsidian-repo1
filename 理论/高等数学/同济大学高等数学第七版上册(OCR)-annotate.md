@@ -133,3 +133,13 @@ annotate-target: 理论/高等数学/同济大学高等数学第七版上册(OCR
 >
 ^ccd0d86d-0829-ba54
 
+>%%
+>```annotate-json
+>{"id":"8453a01b-1fce-b8c7","type":"image","color":"rgb(255,255,0)","position":{"pageIndex":17,"rects":[[71.0665625,231.40012499999995,134.8165625,248.15012499999995]]},"dateCreated":1716821441485,"dateModified":1716821441485,"pdfName":"理论/高等数学/同济大学高等数学第七版上册(OCR).pdf","path":"理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png","imageAbsolutePath":"H:\\data\\obsidian-repo\\obsidian-repo1\\理论\\高等数学\\同济大学高等数学第七版上册(OCR)-1716821441485.png"}
+>```
+>%%
+>![[理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png]]
+>[[#^8453a01b-1fce-b8c7|展示标注]]
+>
+^8453a01b-1fce-b8c7
+
