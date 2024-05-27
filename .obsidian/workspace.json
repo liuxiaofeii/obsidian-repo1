@@ -11,8 +11,10 @@
             "id": "ee34a2d2dea3f99a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "理论/高等数学/未命名导图.md"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "理论/高等数学/未命名导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "理论/高等数学/未命名导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/高等数学/未命名思维导图.md"
+                "file": "理论/高等数学/未命名导图.md"
               }
             }
           },
@@ -175,8 +179,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "ee34a2d2dea3f99a",
   "lastOpenFiles": [
+    "理论/高等数学/未命名思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821621183.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821546442.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png",
@@ -187,7 +192,6 @@
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819718812.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/未命名导图.md",
-    "理论/高等数学/未命名思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
@@ -207,7 +211,6 @@
     "计算机/Java技术栈",
     "计算机",
     "理论/英语/字典/T/T.md",
-    "图床/1716802878593.png",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
