@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "878a9a742b705b76",
+        "id": "69de38beef34e1bb",
         "type": "tabs",
         "children": [
           {
-            "id": "cda8b77ded20cf26",
+            "id": "10119b3c85c3b955",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+              }
             }
           },
           {
@@ -173,12 +181,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "10119b3c85c3b955",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "conflict-files-obsidian-git.md",
     "1716802336540.png",
     "Netty/Netty底层实现.md",
-    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "计算机/Java技术栈/Netty/底层实现",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Java技术栈/Netty",
