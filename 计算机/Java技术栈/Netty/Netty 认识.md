@@ -26,7 +26,6 @@ Tomcat需要遵循Servlet规范。Tomcat3.0之前采用BIO。6.x版本之后支�
 支持多种应用层的协议，比如HTTP、SSH、TLS/SSL等协议；
 能够自定义应用层协议；
 Netty由于不受到Servlet规范的约束，可以最大发挥NIO的特性。
-总结：
 #### 总结
 
 
