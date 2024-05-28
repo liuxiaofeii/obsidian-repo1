@@ -129,4 +129,9 @@ ChannelPipeline 负责组装各种 ChannelHandler。
 #### ChannelHandler
 ChannelHandler负责实际数据的编解码以及加工处理操作。
 #### ChannelHandlerContext
-每个ChannelHandler绑定一个ChannelHandlerContext。
+1. 概念
+	每个ChannelHandler绑定一个ChannelHandlerContext。
+1. 作用
+	- 保存 ChannelHandler上下文；
+	- 实现 ChannelHandler 之间的交互；
+	- 包含 ChannelHandler生命周期的所有事件如connect、bind、read、flush、write、close等；
