@@ -109,8 +109,9 @@ EventLoopGroup是Netty Reactor线程模型的具体实现。
 每个EventLoop同一时间会与一个线程绑定，每个EventLoop负责处理多个Channel。每新建一个Channel，EventLoopGroup会选择一个EventLoop与其绑定。该Channel在生命周期内都可以对EventLoop进行多次绑定和解绑。
 ### （3）Reactor线程模型
 #### 单线程模型
-EventLoopGroup只包含一个EventLoop，Boss和Worker使用同一个EventLoopGroup
+EventLoopGroup只包含<mark style="background: #FFF3A3A6;">一个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup
 #### 多线程模型
+EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup
 #### 主从线程模型
-
+EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，<mark style="background: #FFF3A3A6;">Boss是主Reactor</mark>，<mark style="background: #FFF3A3A6;">Worker是从 Reactor</mark>。主 Reactor负责新的网络连接Channel创建，然后把Channel注册到从Reactor。
 ## 4、服务编排层
