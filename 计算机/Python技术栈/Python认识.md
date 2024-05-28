@@ -7,7 +7,7 @@ Python的编译和运行过程:
 # 二、Python和Java的区别
 Python和Java在多个方面存在显著的区别，以下是对两者区别的详细分点表示和归纳：
 1. **语法简洁性**：
-    - Python的语法相对简洁明了，注重代码的可读性和可维护性。它<mark style="background: #FFB8EBA6;">使用缩进</mark>来表示代码块，使得代码结构更加清晰。
+    - Python的语法相对简洁明了，注重代码的可读性和可维护性。它<mark style="background: #FFF3A3A6;"><mark style="background: #FFB8EBA6;">使用缩进</mark></mark>来表示代码块，使得代码结构更加清晰。
     - Java的语法则较为繁琐，需要使用花括号来明确界定代码块。在Java中，变量需要先声明类型才能使用，而Python则支持动态类型，无需显式声明变量类型。
 2. **学习成本**：
     - Python的学习成本相对较低，其简洁的语法和丰富的内置库使得初学者能够快速上手。
