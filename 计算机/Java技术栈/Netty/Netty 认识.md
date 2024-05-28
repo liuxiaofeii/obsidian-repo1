@@ -133,10 +133,11 @@ Reactor多线程模型把业务逻辑交给多个线程进行处理。除此之�
 ### （3）核心组件
 #### EventLoopGroup
 EventLoopGroup本质上是一个线程池，主要负责IO请求，并分配线程来执行处理请求。一个EventLoopGroup可以包含一个或多个EventLoop。
-EventLoopGroup是Netty Reactor线程模型的具体实现，也是Netty Reactor线程模型的核心处理引擎。
+EventLoopGroup是Netty Reactor线程模型的具体实现。
 常见实现类：NioEventLoopGroup（Netty中最被推荐使用的线程模型）。
 #### EventLoop
 每个EventLoop同一时间会与一个线程绑定，每个EventLoop负责处理多个Channel。每新建一个Channel，EventLoopGroup会选择一个EventLoop与其绑定。该Channel在生命周期内都可以对EventLoop进行多次绑定和解绑。
+EventLoop是Netty Reactor线程模型的核心处理引擎
 ## 5、服务编排层
 ### （1）概念
 服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
