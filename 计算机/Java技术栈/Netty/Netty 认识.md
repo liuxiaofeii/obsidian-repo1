@@ -65,6 +65,13 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 用于<mark style="background: #FFF3A3A6;">服务端启动</mark>绑定本地端口，绑定两个EventLoopGroup(Worker)
 ###### Channel
 Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，提供了基本的API用于网络 I/O 操作，如register、bind、connect、read、write、flush 等。Netty是以JDK NIO Channel为基础实现的 Channel。
+**常见实现类**：
+- NioServerSocketChannel异步TCP服务端
+- NioSocketChannel异步TCP客户端
+- OioServerSocketChannel同步TCP 服务端
+- OioSocketChannel同步TCP客户端
+- NioDatagramChannel异步UDP连接
+- OioDatagramChannel同步UDP 连接
 **TIP**:
 - Boss和Worker的区别：
 	每个服务器中都会有一个 Boss，会有一群做事情的 Worker。<mark style="background: #FFF3A3A6;">Boss 会不停地接收新的连接，将连接分配给一个个Worker处理连接</mark>。
