@@ -64,6 +64,7 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 ###### ServerBootstrap
 用于<mark style="background: #FFF3A3A6;">服务端启动</mark>绑定本地端口，绑定两个EventLoopGroup(Worker)
 ###### Channel
+**概念**
 Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，提供了基本的API用于网络 I/O 操作，如register、bind、connect、read、write、flush 等。Netty是以JDK NIO Channel为基础实现的 Channel。
 **常见实现类**：
 - <mark style="background: #FFF3A3A6;">NioServerSocketChannel异步TCP服务端</mark>
@@ -72,15 +73,15 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 - OioSocketChannel同步TCP客户端
 - NioDatagramChannel异步UDP连接
 - OioDatagramChannel同步UDP 连接
-**存在多种状态，如连接建立、连接注册、数据读写、连接销毁等：**
+**存在多种状态，如连接建立、连接注册、数据读写、连接销毁等，如下表：**
 
 | 事件                   | 说明                              |
 | -------------------- | ------------------------------- |
 | channelRegistered\|  | Channel创建后被注册到 EventLoop 上      |
 | channelUnregistered  | Channel创建后未注册或者从 EventLoop 取消注册 |
-| channelActive        | Channel处于就绪状态，可以被读写             |
+| **channelActive**    | **Channel处于就绪状态，可以被读写**         |
 | channellnactive      | Channel处于非就绪状态                  |
-| channelRead          | Channel可以从远端读取到数据               |
+| **channelRead**      | **Channel可以从远端读取到数据**           |
 | channelReadCompletel | Channel读取数据完成                   |
 
 **TIP**:
