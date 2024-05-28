@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5daaf8a3530856",
+        "id": "988566ba1b176126",
         "type": "tabs",
         "children": [
           {
-            "id": "72bc95cb7585852a",
+            "id": "ef452a3248e0d4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cdfe4844d75a3c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
               }
             }
           },
@@ -179,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 702.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,8 +181,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cdfe4844d75a3c8a",
+  "active": "ef452a3248e0d4ca",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "conflict-files-obsidian-git.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
@@ -218,7 +206,6 @@
     "图床/4fc29e69d3360483b4d59e6cce9f985.png",
     "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
     "图床",
-    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
