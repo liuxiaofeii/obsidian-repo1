@@ -88,7 +88,9 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 - Boss和Worker的区别：
 	每个服务器中都会有一个 Boss，会有一群做事情的 Worker。<mark style="background: #FFF3A3A6;">Boss 会不停地接收新的连接，将连接分配给一个个Worker处理连接</mark>。
 #### 事件调度层
-
+##### 1、概念
+事件调度通过 Reactor 线程模型对各类事件进行聚合处理
+通过 Selector 主循环线程集成多种事件
 #### 服务编排层
 
 
