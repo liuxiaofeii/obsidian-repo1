@@ -62,9 +62,9 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 [[#3、事件调度层]]
 [[#4、服务编排层]]
 ### （3）组件关系图
-服务端启动初始化时，有Boss EvenLoopGroup和Worker EventLoopGroup两个组件。其中Boss负责监听网络连接事件，当有新的网络连接事件到达时，则将Channel注册到Worker EventLoopGroup。
+<mark style="background: #FFF3A3A6;">服务端启动初始化时</mark>，有Boss EvenLoopGroup和Worker EventLoopGroup两个组件。其中Boss负责监听网络连接事件，当有新的网络连接事件到达时，则将Channel注册到Worker EventLoopGroup。
 Worker EventLoopGroup会分配一个EventLoop来负责处理该Channel的读写事件，每个EventLoop都是单线程的。
-通过Selector进行事件循环，当客户端发起IO读写事件时，服务端EventLoop会进行数据的读取。然后通过ChannelPipeline触发各种监听器进行数据的加工处理，客户端数据会被传递到ChannelPipeline的第一个channelInboundHandler中。数据处理完成后，将加工完成的数据传递给下一个ChannelInboundHandler。当数据写回客户端时，会将处理结果在ChannelPipelinedeChannelOutboundHandler中传播最后到达客户端。
+<mark style="background: #FFF3A3A6;">通过Selector进行事件循环</mark>，<mark style="background: #FFF3A3A6;">当客户端发起IO读写事件时</mark>，服务端EventLoop会进行数据的读取。然后通过ChannelPipeline触发各种监听器进行数据的加工处理，客户端数据会被传递到ChannelPipeline的第一个channelInboundHandler中。<mark style="background: #FFF3A3A6;">数据处理完成后</mark>，将加工完成的数据传递给下一个ChannelInboundHandler。当数据写回客户端时，会将处理结果在ChannelPipeline的ChannelOutboundHandler中传播，<mark style="background: #FFF3A3A6;">最后到达客户端</mark>。
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528160740.png)
 ## 3、网络通信层
 ### （1）概念
