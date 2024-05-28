@@ -132,7 +132,11 @@ Reactor多线程模型把业务逻辑交给多个线程进行处理。除此之�
 主从多线程模型由多个Reactor线程组成，每个Reactor线程都有独立的selector对象。mainReactor仅负责处理客户端连接的Access的事件，连接建立成功后将新创建的连接对象注册至subReactor，再由subReactor分配线程池中的IO线程与其连接绑定，该IO线程会负责连接生命周期内所有的IO事件。<mark style="background: #FFF3A3A6;">Netty推荐使用主从多线程模型，这样可以达到成千上万规模的客户端连接</mark>。在海量客户端并发请求的场景下，主从多线程模式可以适当增加subReactor线程的数量，从而利用多核能力提升系统的吞吐量。
 对应Netty的配置是：EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，<mark style="background: #FFF3A3A6;">Boss是主Reactor</mark>，<mark style="background: #FFF3A3A6;">Worker是从 Reactor</mark>。主 Reactor负责新的网络连接Channel创建，然后把Channel注册到从Reactor。
 ![image.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528163241.png)
-
+#### 3. 运行机制
+	- 连接注册：Channel建立后，注册至 Reactor线程中的Selector选择器；
+	- 事件轮询：轮询 Selector选择器中已注册的所有Channel的I/O 事件；
+	- 事件分发：为准备就绪的 I/O事件分配相应的处理线程；
+- 任务处理：每个Worker 线程从各自维护的任务队列中取出任务异步执行；
 ## 5、服务编排层
 ### （1）概念
 服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
