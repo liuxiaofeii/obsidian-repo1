@@ -103,7 +103,10 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 ### （2）核心组件
 #### EventLoopGroup
 EventLoopGroup本质上是一个线程池，主要负责IO请求，并分配线程来执行处理请求。一个EventLoopGroup可以包含一个或多个EventLoop。
-常见实现类：NioEventLoopGroup。
+EventLoopGroup是Netty Reactor线程模型的具体实现。
+常见实现类：NioEventLoopGroup（Netty中最被推荐使用的线程模型）。
 #### EventLoop
 每个EventLoop同一时间会与一个线程绑定，每个EventLoop负责处理多个Channel。每新建一个Channel，EventLoopGroup会选择一个EventLoop与其绑定。该Channel在生命周期内都可以对EventLoop进行多次绑定和解绑。
+### （3）Reactor线程模型
+
 ## 4、服务编排层
