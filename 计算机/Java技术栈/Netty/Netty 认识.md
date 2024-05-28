@@ -125,7 +125,6 @@ ChannelPipeline 负责组装各种 ChannelHandler。
 由于每一个新的Channel都会绑定一个新的ChannelPipeline，所以ChannelPipeline是线程安全的。
 一个ChannelPipeline关联一个EventLoop；一个EventLoop仅会绑定一个线程。
 2. 客户端和服务端一次完整的请求应答过程
-![1716882453123.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716882453123.png)
 
 
 #### ChannelHandler
