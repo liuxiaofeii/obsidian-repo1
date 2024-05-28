@@ -102,7 +102,8 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 事件调度层负责通过 Reactor 线程模型对各类事件进行聚合处理、通过 Selector主循环线程集成多种事件。
 ### （2）核心组件
 #### EventLoopGroup
-EventLoopGroup本质上是一个线程池，主要负责IO请求并分配线程执行处理请求。一个EventLoopGroup可以包含一个或多个EventLoop。
+EventLoopGroup本质上是一个线程池，主要负责IO请求，并分配线程来执行处理请求。一个EventLoopGroup可以包含一个或多个EventLoop。
+常见实现类：NioEventLoopGroup。
 #### EventLoop
-EventLoop同一时间会与一个线程绑定，每个EventLoop负责处理多个Channel。每新建一个Channel，EventLoopGroup会选择一个EventLoop与其绑定。该channel在生命周期内都可以对event loop进行多次绑定和解绑
+每个EventLoop同一时间会与一个线程绑定，每个EventLoop负责处理多个Channel。每新建一个Channel，EventLoopGroup会选择一个EventLoop与其绑定。该Channel在生命周期内都可以对EventLoop进行多次绑定和解绑。
 ## 4、服务编排层
