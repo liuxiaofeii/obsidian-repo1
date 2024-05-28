@@ -119,10 +119,15 @@ EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>�
 服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
 ### （2）核心组件
 #### ChannelPipeline
+1. 概念
 ChannelPipeline 负责组装各种 ChannelHandler。
 当I/O读写事件触发时，ChannelPipeline会依次调用 ChannelHandler列表对 Channel的数据进行拦裁和处理。
 由于每一个新的Channel都会绑定一个新的ChannelPipeline，所以ChannelPipeline是线程安全的。
-一个ChannelPipeline关联一个EventLoop；一个EventLoop仅会绑定一个
+一个ChannelPipeline关联一个EventLoop；一个EventLoop仅会绑定一个线程。
+2. 客户端和服务端一次完整的请求应答过程
+![1716882453123.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716882453123.png)
+
+
 #### ChannelHandler
 ChannelHandler负责实际数据的编解码以及加工处理操作。
 #### ChannelHandlerContext

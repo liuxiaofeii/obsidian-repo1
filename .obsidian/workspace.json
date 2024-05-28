@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "462401b822d64ada",
+        "id": "b4914eab96fe7799",
         "type": "tabs",
         "children": [
           {
-            "id": "635ec1883113f5a7",
+            "id": "fbb52006619a8f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -217,13 +216,13 @@
       }
     ]
   },
-  "active": "5390da7583ff7ec6",
+  "active": "fbb52006619a8f91",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/全栈技术栈",
     "计算机/Java技术栈/Elasticsearch",
     "计算机/Java技术栈/Shiro",
     "计算机/Java技术栈/Netty/Netty认识-图示.md",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Python技术栈/Python认识-图示.md",
     "Pasted Image 20240528102652_052.png",
     "Pasted Image 20240528102506_081.png",
@@ -249,7 +248,6 @@
     "理论/高等数学",
     "理论/英语",
     "理论",
-    "图床",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
