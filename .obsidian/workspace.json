@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 215.51103591918945
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -217,8 +216,10 @@
       }
     ]
   },
-  "active": "635ec1883113f5a7",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
+    "计算机/Java技术栈/未命名",
+    "计算机/Java技术栈/Shiro",
     "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/Python技术栈/Python认识-图示.md",
@@ -253,7 +254,6 @@
     "计算机/Java技术栈/Netty/底层实现",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Scripts/Downloaded",
     "英语/字典/T/T.md",
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",

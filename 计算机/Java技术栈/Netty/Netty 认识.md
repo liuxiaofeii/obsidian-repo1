@@ -120,7 +120,7 @@ EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>�
 ### （2）核心组件
 #### ChannelPipeline
 ChannelPipeline 负责组装各种 ChannelHandler。
-当I/O读写事件触发时，ChannelPipeline会依次调用 ChannelHandler列表对 Channel的数据进行拦裁和处理.
+当I/O读写事件触发时，ChannelPipeline会依次调用 ChannelHandler列表对 Channel的数据进行拦裁和处理。
 #### ChannelHandler
 ChannelHandler负责实际数据的编解码以及加工处理操作。
 #### ChannelHandlerContext
