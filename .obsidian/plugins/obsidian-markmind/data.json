@@ -1,0 +1,22 @@
+{
+  "canvasSize": 8000,
+  "headLevel": 2,
+  "fontSize": 16,
+  "background": "transparent",
+  "layout": "mindmap",
+  "layoutDirect": "mindmap",
+  "protocol": "jump-to-pdf",
+  "registerPdfEvent": true,
+  "viewerTheme": 2,
+  "mindmapmode": "basic",
+  "parseMindMap": true,
+  "annotateTop": 0,
+  "annotateBottom": 0,
+  "useCustomShortcut": false,
+  "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
+  "setup": 1716816424605,
+  "uid": "00p01100p01001200p01001000p01000r010011",
+  "onlyUseObsidianFolder": true,
+  "useMarkdownSaveAnnotation": "annos",
+  "pdfjsPath": "9228cd9e857d9e30d7be0a69de5814a/H:/data/obsidian-repo/obsidian-repo1/.obsidian/pdfjs"
+}

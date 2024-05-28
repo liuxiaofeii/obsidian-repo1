@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdfe4844d75a3c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,39 +194,43 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "72bc95cb7585852a",
+  "active": "cdfe4844d75a3c8a",
   "lastOpenFiles": [
-    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
+    "conflict-files-obsidian-git.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
+    "理论/高等数学/同济大学高等数学第七版思维导图.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
+    "理论/英语/字典/T/T.md",
+    "理论/英语/字典/T",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821621183.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821546442.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821368769.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821338749.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819748209.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819735853.png",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819718812.png",
+    "理论/英语/字典",
+    "理论/高等数学",
+    "理论/英语",
+    "理论",
+    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
     "图床/6e4c29ea3c46fd074a57bb80e10742b.png",
-    "图床/1716802878593.png",
-    "图床/1716802336540.png",
     "图床",
-    "1716802336540.png",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
     "计算机/Java技术栈/Netty/底层实现",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "英语/字典/T/T.md",
-    "英语",
-    "计算机/Java技术栈",
-    "计算机",
-    "英语/字典/T",
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
-    "英语/字典",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "未命名 1.md",
