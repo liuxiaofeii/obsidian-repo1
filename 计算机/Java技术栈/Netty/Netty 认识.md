@@ -115,3 +115,10 @@ EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>�
 #### 主从线程模型
 EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，<mark style="background: #FFF3A3A6;">Boss是主Reactor</mark>，<mark style="background: #FFF3A3A6;">Worker是从 Reactor</mark>。主 Reactor负责新的网络连接Channel创建，然后把Channel注册到从Reactor。
 ## 4、服务编排层
+### （1）概念
+服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
+### （2）核心组件
+#### ChannelPipeline
+
+#### ChannelHandler
+#### ChannelHandlerContext
