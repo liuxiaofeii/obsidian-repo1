@@ -60,13 +60,14 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 网络通信层的职责是执行网络I/O的操作，支持多种网络协议和I/O模型的连接操作。
 ##### 2、核心组件
 ###### Bootstrap
-用于连接远端服务器，只绑定一个EventLoopGroup(Boss)
+用于<mark style="background: #FFF3A3A6;">连接远端服务器</mark>，只绑定一个EventLoopGroup(Boss)
 ###### ServerBootstrap
-用于服务端启动绑定本地端口，绑定两个EventLoopGroup(Worker)
+用于<mark style="background: #FFF3A3A6;">服务端启动</mark>绑定本地端口，绑定两个EventLoopGroup(Worker)
 ###### Channel
 
-TIP:
-Boss和Worker的区别
+**TIP**:
+- Boss和Worker的区别：
+	每个服务器中都会有一个 Boss，会有一群做事情的 Worker。<mark style="background: #FFF3A3A6;">Boss 会不停地接收新的连接，将连接分配给一个个Worker处理连接</mark>。
 #### 事件调度层
 
 #### 服务编排层
