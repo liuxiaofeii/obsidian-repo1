@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a800598ffc73b5f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "计算机/Python技术栈/过程笔记-图示.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Python技术栈/Python认识.md",
+                "file": "计算机/Python技术栈/过程笔记-图示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Python技术栈/Python认识.md",
+                "file": "计算机/Python技术栈/过程笔记-图示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Python技术栈/Python认识.md"
+                "file": "计算机/Python技术栈/过程笔记-图示.md"
               }
             }
           },
@@ -216,9 +227,10 @@
       }
     ]
   },
-  "active": "b98cedcff43b53de",
+  "active": "8a800598ffc73b5f",
   "lastOpenFiles": [
     "计算机/Python技术栈/Python认识.md",
+    "计算机/Python技术栈/过程笔记-图示.md",
     "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
@@ -262,7 +274,6 @@
     "未命名 2.md",
     "未命名 10/未命名.md",
     "未命名 9/未命名.md",
-    "未命名 8/未命名.md",
-    "未命名 3.md"
+    "未命名 8/未命名.md"
   ]
 }
