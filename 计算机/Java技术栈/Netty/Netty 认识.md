@@ -126,9 +126,14 @@ EventLoopGroup是Netty Reactor线程模型的具体实现，也是Netty Reactor�
 - 如果I/O线程一直处于满负荷状态，可能造成服务端节点不可用;
 #### 多线程模型
 Reactor多线程模型把业务逻辑交给多个线程进行处理。除此之外，多线程模型其他的操作与单线程模型是类似的，例如读取数据依然保留了串行化的设计。当客户端有数据发送给服务端时，select会监听到可读事件数据，读取完毕后提交到业务线程池中并发处理。对应Netty的配置是：EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup。
+![image.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528163138.png)
 
 #### 主从线程模型
+主从多线程模型由多个Reactor线程组成，每个Reactor线程都有独立的selector对象。mainReactor仅负责处理客户端连接的Access的事件，连接建立成功后将新创建的连接对象注册至SAP。sub reactor再由sub reactor分配线程池中的IO线程与其连接绑定，
+它将负责连接生命周期内所有的IO事件。netty推荐使用主从多线程模型，这样就可以轻松达到成千上万规模的客户端连接。在海量客户端并发请求的场景下，主从多线程模式甚至可以适当增加sub reactor线程的数量。从而利用多核能力提升系统的吞吐量。
 EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，<mark style="background: #FFF3A3A6;">Boss是主Reactor</mark>，<mark style="background: #FFF3A3A6;">Worker是从 Reactor</mark>。主 Reactor负责新的网络连接Channel创建，然后把Channel注册到从Reactor。
+![image.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528163241.png)
+
 ## 5、服务编排层
 ### （1）概念
 服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
