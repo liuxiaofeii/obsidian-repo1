@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "计算机/Python技术栈/Python认识.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "计算机/Python技术栈/Python认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "计算机/Python技术栈/Python认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "计算机/Python技术栈/Python认识.md"
               }
             }
           },
@@ -183,9 +183,11 @@
   },
   "active": "ef452a3248e0d4ca",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Netty/Netty 认识.md",
+    "计算机/Python技术栈/Python认识.md",
+    "计算机/Python技术栈",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "conflict-files-obsidian-git.md",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/英语/字典/T/T.md",
@@ -213,7 +215,6 @@
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "英语/字典/T/T.md",
     "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
