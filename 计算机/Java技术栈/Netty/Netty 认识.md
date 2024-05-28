@@ -82,7 +82,7 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 	| **channelActive**    | **Channel处于就绪状态，可以被读写**         |
 	| channellnactive      | Channel处于非就绪状态                  |
 	| **channelRead**      | **Channel可以从远端读取到数据**           |
-| channelReadCompletel | Channel读取数据完成                   |
+	| channelReadCompletel | Channel读取数据完成                   |
 
 **TIP**:
 - Boss和Worker的区别：
