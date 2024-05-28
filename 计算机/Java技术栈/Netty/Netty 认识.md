@@ -117,12 +117,13 @@ EventLoopGroup是Netty Reactor线程模型的具体实现，也是Netty Reactor�
 2. 分类
 #### 单线程模型
 在Reactor单线程模型当中，所有IO操作包括连接建立，数据读写，事件分发等，都是由一个线程完成的。对应Netty的参数配置是：EventLoopGroup只包含<mark style="background: #FFF3A3A6;">一个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup。
-优点：逻辑简单
-缺点：
-一个线程支持处理的连接数有限，CPU很容易打满，性能方面有明显瓶颈
-当多个事件被同时触发，只要有一个事件没有处理完，其他后面的事件就无法执行
-线程在处理 1/0 事件时，Select无法同时处理连接建立、事件分发等操作
-如果 I/0 线程一直处于满负荷状态，可能造成服务端节点不可用
+![image.png](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528162839.png)
+**优点**：逻辑简单
+**缺点**：
+- 一个线程支持处理的连接数有限，CPU很容易打满，性能方面有明显瓶颈;
+- 当多个事件被同时触发，只要有一个事件没有处理完，其他后面的事件就无法执行;
+- 线程在处理I/O事件时，Select无法同时处理连接建立、事件分发等操作;
+- 如果I/O线程一直处于满负荷状态，可能造成服务端节点不可用;
 #### 多线程模型
 EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup
 #### 主从线程模型
