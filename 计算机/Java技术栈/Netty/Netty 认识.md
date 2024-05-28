@@ -40,7 +40,8 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 # 四、应用
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/1716802878593.png)
 # 五、使用
-## 1、一个简单的HTTPfu'w
+## 1、一个简单的HTTP服务器的实现
+
 # 六、原理
 ## 1、Netty整体结构
 ### （1）图示
@@ -70,8 +71,8 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 	Netty的引导器是作为整个Netty服务端和客户端的程序入口，引导器种类有：Bootstrap、ServerBootstrap。
 	- Bootstrap：用于<mark style="background: #FFF3A3A6;">连接远端服务器</mark>，只绑定一个EventLoopGroup(Boss)
 	- ServerBootstrap：用于<mark style="background: #FFF3A3A6;">服务端启动</mark>绑定本地端口，绑定两个EventLoopGroup(Worker)
-2. 快速入门
-
+2. 引导器的使用
+[[#1、一个简单的HTTP服务器的实现]]
 #### Channel
 1. **概念**
 Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，提供了基本的API用于网络 I/O 操作，如register、bind、connect、read、write、flush 等。Netty是以JDK NIO Channel为基础实现的 Channel。
@@ -82,7 +83,7 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 	- OioSocketChannel同步TCP客户端
 	- NioDatagramChannel异步UDP连接
 	- OioDatagramChannel同步UDP 连接
-1. **存在多种状态，如连接建立、连接注册、数据读写、连接销毁等，如下表：**
+3. **存在多种状态，如连接建立、连接注册、数据读写、连接销毁等，如下表：**
 
 	| 事件                   | 说明                              |
 	| -------------------- | ------------------------------- |
