@@ -61,8 +61,9 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 [[#2、网络通信层]]
 [[#3、事件调度层]]
 [[#4、服务编排层]]
-
-## 2、网络通信层
+### （3）组件关系图
+![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528160740.png)
+## 3、网络通信层
 ### （1）概念
 网络通信层的职责是执行网络I/O的操作，支持多种网络协议和I/O模型的连接操作。
 ### （2）核心组件
@@ -97,7 +98,7 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 **TIP**:
 - Boss和Worker的区别：
 	每个服务器中都会有一个 Boss，会有一群做事情的 Worker。<mark style="background: #FFF3A3A6;">Boss 会不停地接收新的连接，将连接分配给一个个Worker处理连接</mark>。
-## 3、事件调度层
+## 4、事件调度层
 ### （1）概念
 事件调度层负责通过 Reactor 线程模型对各类事件进行聚合处理、通过 Selector主循环线程集成多种事件。
 ### （2）核心组件
@@ -114,7 +115,7 @@ EventLoopGroup只包含<mark style="background: #FFF3A3A6;">一个EventLoop</mar
 EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，Boss和Worker使用同一个EventLoopGroup
 #### 主从线程模型
 EventLoopGroup包含<mark style="background: #FFF3A3A6;">多个EventLoop</mark>，<mark style="background: #FFF3A3A6;">Boss是主Reactor</mark>，<mark style="background: #FFF3A3A6;">Worker是从 Reactor</mark>。主 Reactor负责新的网络连接Channel创建，然后把Channel注册到从Reactor。
-## 4、服务编排层
+## 5、服务编排层
 ### （1）概念
 服务编排层负责组装各类服务，用以实现网络事件的动态编排和有序传播。
 ### （2）核心组件
