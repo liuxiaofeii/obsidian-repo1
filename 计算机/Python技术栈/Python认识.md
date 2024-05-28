@@ -4,7 +4,7 @@ Python的编译和运行过程:
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528094915.png)
 # 二、特色
 强制用空白符（white space）作为语句缩进；具有丰富和强大的库
-# 二、Python和Java的区别
+# 三、Python和Java的区别
 Python和Java在多个方面存在显著的区别，以下是对两者区别的详细分点表示和归纳：
 1. **语法简洁性**：
     - Python的语法相对简洁明了，注重代码的可读性和可维护性。它<mark style="background: #FFF3A3A6;">使用缩进</mark>来表示代码块，使得代码结构更加清晰。Python<mark style="background: #FFF3A3A6;">支持动态类型</mark>，无需显式声明变量类型。
@@ -23,3 +23,4 @@ Python和Java在多个方面存在显著的区别，以下是对两者区别的�
 6. **可移植性**：
     - <mark style="background: #FFF3A3A6;">Java以其“一次编写，到处运行”的特点而闻名，具有强大的跨平台性</mark>。Java虚拟机（JVM）是Java的核心，使得Java代码可以在不同的操作系统和硬件平台上运行。
     - <mark style="background: #FFF3A3A6;">Python虽然也具有一定的可移植性，但其虚拟机（CPython）的跨平台能力相对较弱</mark>。不过，<mark style="background: #FFF3A3A6;">Python的跨平台性主要得益于其丰富的库和工具支持</mark>，使得开发者可以在不同的平台上使用相同的Python代码
+# 四、语法
