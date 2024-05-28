@@ -100,8 +100,8 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 ## 3、事件调度层
 ### （1）概念
 事件调度层负责通过 Reactor 线程模型对各类事件进行聚合处理、通过 Selector主循环线程集成多种事件。
-核心组件包括 EventLoopGroup、EventLoop
 ### （2）核心组件
 #### EventLoopGroup
-#### EventLo'o'p
+EventLoopGroup本质上是一个线程池，主要负责IO请求并分配线程执行处理请求。
+#### EventLoop
 ## 4、服务编排层
