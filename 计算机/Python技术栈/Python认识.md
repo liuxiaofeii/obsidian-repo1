@@ -23,4 +23,4 @@ Python和Java在多个方面存在显著的区别，以下是对两者区别的�
 6. **可移植性**：
     - <mark style="background: #FFF3A3A6;">Java以其“一次编写，到处运行”的特点而闻名，具有强大的跨平台性</mark>。Java虚拟机（JVM）是Java的核心，使得Java代码可以在不同的操作系统和硬件平台上运行。
     - <mark style="background: #FFF3A3A6;">Python虽然也具有一定的可移植性，但其虚拟机（CPython）的跨平台能力相对较弱</mark>。不过，<mark style="background: #FFF3A3A6;">Python的跨平台性主要得益于其丰富的库和工具支持</mark>，使得开发者可以在不同的平台上使用相同的Python代码
-# 四、语法
+# 四、使用
