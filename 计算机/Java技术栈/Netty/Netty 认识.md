@@ -56,18 +56,19 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528102522.png)
 ### （2）主要组成
 [[#2、网络通信层]]
-[[#2、事件调度层]]
+[[#3、事件调度层]]
 [[#4、服务编排层]]
 
 ## 2、网络通信层
 ### （1）概念
 网络通信层的职责是执行网络I/O的操作，支持多种网络协议和I/O模型的连接操作。
 ### （2）核心组件
-###### Bootstrap
+#### yin'dao'qi
+
 用于<mark style="background: #FFF3A3A6;">连接远端服务器</mark>，只绑定一个EventLoopGroup(Boss)
-###### ServerBootstrap
+#### ServerBootstrap
 用于<mark style="background: #FFF3A3A6;">服务端启动</mark>绑定本地端口，绑定两个EventLoopGroup(Worker)
-###### Channel
+#### Channel
 1. **概念**
 Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，提供了基本的API用于网络 I/O 操作，如register、bind、connect、read、write、flush 等。Netty是以JDK NIO Channel为基础实现的 Channel。
 2. **常见实现类**：
