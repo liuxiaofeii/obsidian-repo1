@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "449481295272b7da",
+        "id": "462401b822d64ada",
         "type": "tabs",
         "children": [
           {
-            "id": "b98cedcff43b53de",
+            "id": "b392a355c0f9bfa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/Python技术栈/Python认识.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a800598ffc73b5f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +208,7 @@
       }
     ]
   },
-  "active": "8a800598ffc73b5f",
+  "active": "b392a355c0f9bfa2",
   "lastOpenFiles": [
     "计算机/Python技术栈/Python认识.md",
     "计算机/Python技术栈/过程笔记-图示.md",
