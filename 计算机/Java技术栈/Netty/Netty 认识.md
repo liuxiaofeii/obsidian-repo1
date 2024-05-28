@@ -62,6 +62,8 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 [[#3、事件调度层]]
 [[#4、服务编排层]]
 ### （3）组件关系图
+服务端启动初始化时，有Boss EvenLoopGroup和Worker EventLoop group两个组件。其中boss负责监听网络连接事件，当有新的网络连接事件到达时，则将channel注册到worker event loop group。
+worker event loop group会被分配一个event loop负责处理该channel的读写事件，每个event loop都是单线程的。通过selector进行事件循环，当客户端发起IO读写事件时，服务端event loop会进行数据的读取。然后通过pipeline触发各种监听器进行数据的加工处理，客户端数据会被传递到channel pipeline的第一个channel inbound handler当中。数据处理完成后，将加工完成的数据传递给下一个channel inbound handler。当数据写回客户端时，会将处理结果在channel pipeline的。channel outbound handler中传播最后到达客户端。
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528160740.png)
 ## 3、网络通信层
 ### （1）概念
