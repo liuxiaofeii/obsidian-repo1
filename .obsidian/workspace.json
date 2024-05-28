@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7f65ccc430764a81",
+        "id": "b4914eab96fe7799",
         "type": "tabs",
         "children": [
           {
-            "id": "ee34a2d2dea3f99a",
+            "id": "fbb52006619a8f91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"图床/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "5668f398365a952d",
+            "id": "ac9493d6a213fc22",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+              }
             }
           },
           {
@@ -159,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 702.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,57 +179,91 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ee34a2d2dea3f99a",
+  "floating": {
+    "id": "fb97f9084e2ebb06",
+    "type": "floating",
+    "children": [
+      {
+        "id": "94987c3777eed56d",
+        "type": "window",
+        "children": [
+          {
+            "id": "d493d878ddf6bbf3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3c868393b33ea09",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "计算机/Python技术栈/Python认识-图示.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 566,
+        "y": 372,
+        "width": 1197,
+        "height": 800,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "fbb52006619a8f91",
   "lastOpenFiles": [
-    "理论/高等数学/未命名导图.md",
+    "计算机/Java技术栈/Netty/Netty认识-图示.md",
+    "Pasted Image 20240528163230_586.png",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
+    "Pasted Image 20240528163122_389.png",
+    "Pasted Image 20240528162816_954.png",
+    "Pasted Image 20240528160741_665.png",
+    "计算机/全栈技术栈",
+    "计算机/Java技术栈/Elasticsearch",
+    "计算机/Java技术栈/Shiro",
+    "计算机/Python技术栈/Python认识-图示.md",
+    "Pasted Image 20240528102652_052.png",
+    "Pasted Image 20240528102506_081.png",
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+    "计算机/Python技术栈/Python认识.md",
+    "计算机/Python技术栈/过程笔记-图示.md",
+    "计算机/Python技术栈",
+    "conflict-files-obsidian-git.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
-    "理论/高等数学/未命名思维导图.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
+    "理论/英语/字典/T/T.md",
+    "理论/英语/字典/T",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821621183.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821546442.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821368769.png",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821338749.png",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819748209.png",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819735853.png",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716819718812.png",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
-    "理论/高等数学/同济大学高等数学第七版上册.pdf",
-    "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
-    "理论/高等数学/同济大学高等数学第七版上册.annos",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
-    "计算机/Java技术栈/Netty/Netty 认识.md",
+    "理论/英语/字典",
     "理论/高等数学",
+    "理论/英语",
     "理论",
-    "图床/未命名.md",
-    "图床/4fc29e69d3360483b4d59e6cce9f985.png",
-    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
-    "conflict-files-obsidian-git.md",
-    "1716802336540.png",
-    "Netty/Netty底层实现.md",
-    "计算机/Java技术栈/Netty/底层实现",
-    "计算机/Java技术栈/Netty",
-    "计算机/Java技术栈",
-    "计算机",
-    "理论/英语/字典/T/T.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "英语/字典/T/T.md",
+    "English Dict/T 1.md",
     "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "未命名 1.md",
     "未命名.md",
     "未命名 2.md",
-    "未命名 10/未命名.md",
-    "未命名 9/未命名.md"
+    "未命名 10/未命名.md"
   ]
 }
