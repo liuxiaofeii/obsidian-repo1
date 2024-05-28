@@ -74,9 +74,14 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 - OioDatagramChannel同步UDP 连接
 **存在多种状态，如连接建立、连接注册、数据读写、连接销毁等：**
 
-|     |     |
-| --- | --- |
-|     |     |
+| 事件                   | 说明                              |
+| -------------------- | ------------------------------- |
+| channelRegistered\|  | Channel创建后被注册到 EventLoop 上      |
+| channelUnregistered  | Channel创建后未注册或者从 EventLoop 取消注册 |
+| channelActive        | Channel处于就绪状态，可以被读写             |
+| channellnactive      | Channel处于非就绪状态                  |
+| channelRead          | Channel可以从远端读取到数据               |
+| channelReadCompletel | Channel读取数据完成                   |
 
 **TIP**:
 - Boss和Worker的区别：
