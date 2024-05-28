@@ -56,9 +56,20 @@ Mina是Apache Directory服务底层的NIO框架，它和Netty都是Trustin Lee�
 ![](https://raw.githubusercontent.com/liuxiaofeii/BC4A0327-E9BF-B504-C6AE-24BEC8348190/main/20240528102522.png)
 ### （2）主要组成
 #### 网络通信层
+[[#
+#### 事件调度层
 ##### 1、概念
-网络通信层的职责是执行网络I/O的操作，支持多种网络协议和I/O模型的连接操作。
+事件调度层会通过 Reactor 线程模型对各类事件进行聚合处理，通过 Selector 主循环线程集成多种事件。
 ##### 2、核心组件
+###### EventLoopGroup
+###### EventLoop
+#### 服务编排层
+
+
+## 2、网络通信层
+### （1）概念
+网络通信层的职责是执行网络I/O的操作，支持多种网络协议和I/O模型的连接操作。
+### （2）核心组件
 ###### Bootstrap
 用于<mark style="background: #FFF3A3A6;">连接远端服务器</mark>，只绑定一个EventLoopGroup(Boss)
 ###### ServerBootstrap
@@ -87,13 +98,5 @@ Channel是<mark style="background: #FFF3A3A6;">网络通信的载体</mark>，�
 **TIP**:
 - Boss和Worker的区别：
 	每个服务器中都会有一个 Boss，会有一群做事情的 Worker。<mark style="background: #FFF3A3A6;">Boss 会不停地接收新的连接，将连接分配给一个个Worker处理连接</mark>。
-#### 事件调度层
-##### 1、概念
-事件调度层会通过 Reactor 线程模型对各类事件进行聚合处理，通过 Selector 主循环线程集成多种事件。
-##### 2、核心组件
-###### EventLoopGroup
-###### EventLoop
-#### 服务编排层
-
 
      
