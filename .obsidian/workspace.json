@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4a41cb6bf2e2770",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统开发.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统开发.md"
               }
             }
           },
@@ -181,10 +193,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "fbb52006619a8f91",
+  "active": "f4a41cb6bf2e2770",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pasted Image 20240529100949_682.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",
+    "计算机/Java技术栈/Netty/实战/即时通讯系统开发.md",
+    "计算机/Java技术栈/Netty/实战",
+    "conflict-files-obsidian-git.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘",
     "计算机/全栈技术栈/项目经验",
@@ -213,7 +228,6 @@
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821441485.png",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821368769.png",
     "理论/英语/字典",
-    "理论/高等数学",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
@@ -226,8 +240,6 @@
     "Excalidraw/Drawing 2024-05-24 17.15.54.excalidraw.md",
     "Untitled.md",
     "未命名 1.md",
-    "未命名.md",
-    "未命名 2.md",
-    "未命名 10/未命名.md"
+    "未命名.md"
   ]
 }
