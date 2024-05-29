@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
               }
             }
           },
@@ -179,10 +181,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "fbb52006619a8f91",
   "lastOpenFiles": [
-    "计算机/Java技术栈/Netty/Netty 认识.md",
     "conflict-files-obsidian-git.md",
+    "计算机/Java技术栈/Netty/Netty 认识.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘",
     "计算机/全栈技术栈/项目经验",
