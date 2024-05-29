@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/Netty 认识.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,10 +179,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "fbb52006619a8f91",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
-    "Pasted Image 20240528163230_586.png",
     "计算机/Java技术栈/Netty/Netty 认识.md",
+    "conflict-files-obsidian-git.md",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘",
+    "计算机/全栈技术栈/项目经验",
+    "Pasted Image 20240528163230_586.png",
     "Pasted Image 20240528163122_389.png",
     "Pasted Image 20240528162816_954.png",
     "计算机/Python技术栈/Python认识-图示.md",
@@ -199,7 +201,6 @@
     "计算机/Python技术栈/Python认识.md",
     "计算机/Python技术栈/过程笔记-图示.md",
     "计算机/Python技术栈",
-    "conflict-files-obsidian-git.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/英语/字典/T/T.md",
@@ -211,8 +212,6 @@
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-1716821368769.png",
     "理论/英语/字典",
     "理论/高等数学",
-    "理论/英语",
-    "理论",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Drawing 2024-05-27 15.57.46.excalidraw.md",
