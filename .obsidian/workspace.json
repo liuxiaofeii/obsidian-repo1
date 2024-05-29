@@ -11,8 +11,10 @@
             "id": "653a7c68efcd6d50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md"
+              }
             }
           }
         ]
@@ -69,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md"
+                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md"
               }
             }
           },
@@ -177,10 +180,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "653a7c68efcd6d50",
   "lastOpenFiles": [
-    "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/Java技术栈/Netty/实战",
     "Pasted Image 20240529163433_433.png",
     "Pasted Image 20240529112918_414.png",
