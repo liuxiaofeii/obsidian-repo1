@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32ff0603843a2d14",
+        "id": "fcde3c28129c5a19",
         "type": "tabs",
         "children": [
           {
-            "id": "653a7c68efcd6d50",
+            "id": "1499b5e9da73de72",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -180,8 +180,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "653a7c68efcd6d50",
+  "active": "1499b5e9da73de72",
   "lastOpenFiles": [
+    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
+    "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
+    "理论/高等数学/同济大学高等数学第七版思维导图.md",
+    "理论/高等数学/未命名.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/Java技术栈/Netty/实战",
@@ -205,14 +209,11 @@
     "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Python技术栈",
     "理论/高等数学/未命名导图.md",
-    "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/未命名思维导图.md",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
     "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册.annos",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "理论/高等数学",
     "图床/未命名.md",
@@ -225,8 +226,6 @@
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 22.48.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 17.14.56.excalidraw.md"
+    "Netty/Drawing 2024-05-24 22.48.15.excalidraw.md"
   ]
 }
