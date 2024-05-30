@@ -11,8 +11,12 @@
             "id": "aad0c2914ab96dd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922
+    "width": 460.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md",
+                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md",
+                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md"
+                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md"
               }
             }
           },
@@ -177,11 +182,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "aad0c2914ab96dd9",
   "lastOpenFiles": [
+    "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
-    "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/未命名.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
