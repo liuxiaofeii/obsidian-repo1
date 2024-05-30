@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fcde3c28129c5a19",
+        "id": "bc259e899e0bba3b",
         "type": "tabs",
         "children": [
           {
-            "id": "1499b5e9da73de72",
+            "id": "aad0c2914ab96dd9",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "理论/高等数学/同济大学高等数学第七版思维导图.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1499b5e9da73de72",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
