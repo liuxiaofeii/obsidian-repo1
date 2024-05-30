@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd5c24d6d7560a1",
+        "id": "07af03b098df4e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "7ee407612efcce46",
+            "id": "5db9fde5004f90dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md"
+              }
             }
           }
         ]
@@ -69,12 +71,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922
+    "width": 460.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md"
+              }
             }
           },
           {
@@ -174,10 +180,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7ee407612efcce46",
+  "active": "5db9fde5004f90dd",
   "lastOpenFiles": [
-    "理论/高等数学/同济大学高等数学第七版思维导图.md",
+    "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/Java技术栈/Netty/实战",
     "Pasted Image 20240529163433_433.png",
@@ -194,7 +201,6 @@
     "计算机/全栈技术栈/项目经验/全栈企业网盘",
     "计算机/全栈技术栈/项目经验",
     "计算机/全栈技术栈",
-    "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/Python技术栈/过程笔记-图示.md",
     "计算机/Python技术栈/Python认识.md",
     "计算机/Python技术栈/Python认识-图示.md",
