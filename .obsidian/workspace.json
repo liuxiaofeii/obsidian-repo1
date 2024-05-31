@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc259e899e0bba3b",
+        "id": "f7fb540b0ce956d1",
         "type": "tabs",
         "children": [
           {
-            "id": "aad0c2914ab96dd9",
+            "id": "6e005e7752b50e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机/全栈技术栈/架构.md"
               }
             }
           }
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922,
-    "collapsed": true
+    "width": 460.5110321044922
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+                "file": "计算机/全栈技术栈/架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+                "file": "计算机/全栈技术栈/架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md"
+                "file": "计算机/全栈技术栈/架构.md"
               }
             }
           },
@@ -182,25 +179,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aad0c2914ab96dd9",
+  "active": "6e005e7752b50e30",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "计算机/全栈技术栈/架构.md",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "Pasted Image 20240530100459_043.png",
+    "Pasted Image 20240530095843_972.png",
+    "Pasted Image 20240530095643_944.png",
+    "Pasted Image 20240530094330_359.png",
+    "Pasted Image 20240530094111_747.png",
+    "Pasted Image 20240530093856_688.png",
+    "Pasted Image 20240530093234_614.png",
+    "Pasted Image 20240530093200_346.png",
+    "Pasted Image 20240530092946_587.png",
+    "Pasted Image 20240530092048_455.png",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
     "理论/高等数学/未命名.md",
-    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/Java技术栈/Netty/实战",
-    "Pasted Image 20240529163433_433.png",
-    "Pasted Image 20240529112918_414.png",
-    "Pasted Image 20240529112744_565.png",
-    "Pasted Image 20240529111451_789.png",
-    "Pasted Image 20240529104228_197.png",
-    "Pasted Image 20240529103206_071.png",
-    "Pasted Image 20240529102444_002.png",
-    "Pasted Image 20240529101748_061.png",
-    "Pasted Image 20240529101108_153.png",
-    "Pasted Image 20240529101008_904.png",
     "计算机/全栈技术栈/未命名.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘",
     "计算机/全栈技术栈/项目经验",
@@ -220,7 +219,6 @@
     "理论/高等数学",
     "图床/未命名.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
-    "conflict-files-obsidian-git.md",
     "Netty/Netty底层实现.md",
     "理论/英语/字典/T/T.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
