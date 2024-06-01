@@ -97,34 +97,39 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "Nfo6rtZJKjQavvx4eq8ev",
             "type": "line",
-            "x": -3253.132892821227,
-            "y": 14644.659813500188,
-            "width": 673.820475260417,
-            "height": 475.17978922526163,
-            "angle": 0,
-            "strokeColor": "#b2f2bb",
-            "backgroundColor": "#b2f2bb",
+            "version": 550,
+            "versionNonce": 338924055,
+            "index": "bVx",
+            "isDeleted": false,
+            "id": "Nfo6rtZJKjQavvx4eq8ev",
             "fillStyle": "hachure",
             "strokeWidth": 4,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
+            "angle": 0,
+            "x": -3253.132892821227,
+            "y": 14644.659813500188,
+            "strokeColor": "#b2f2bb",
+            "backgroundColor": "#b2f2bb",
+            "width": 673.820475260417,
+            "height": 475.17978922526163,
+            "seed": 1639828665,
             "groupIds": [],
             "frameId": null,
-            "index": "bVx",
             "roundness": {
               "type": 2
             },
-            "seed": 1639828665,
-            "version": 550,
-            "versionNonce": 338924055,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1717219752682,
             "link": null,
             "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
             "points": [
               [
                 0,
@@ -162,15 +167,7 @@
                 0,
                 0
               ]
-            ],
-            "lastCommittedPoint": [
-              -4.86865234375,
-              -1.9474690755214397
-            ],
-            "startBinding": null,
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": null
+            ]
           }
         ],
         "created": 1717219758091
