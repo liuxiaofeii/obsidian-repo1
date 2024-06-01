@@ -16,19 +16,8 @@
                 "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md"
               }
             }
-          },
-          {
-            "id": "9ed7386d680ae6cd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
+                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
+                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md"
+                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md"
               }
             }
           },
@@ -190,22 +179,23 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9ed7386d680ae6cd",
+  "active": "040595c9e3368c00",
   "lastOpenFiles": [
+    "Pasted Image 20240529100949_682.png",
     "计算机/全栈技术栈/全栈涉及技术栈图示.md",
+    "Pasted Image 20240529112744_565.png",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/images",
+    "Pasted Image 20240529111451_789.png",
+    "Pasted Image 20240529104228_197.png",
+    "Pasted Image 20240529103206_071.png",
+    "Pasted Image 20240529102444_002.png",
+    "Pasted Image 20240529101748_061.png",
+    "Pasted Image 20240529101108_153.png",
+    "Pasted Image 20240529101008_904.png",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "Pasted Image 20240530100459_043.png",
-    "Pasted Image 20240530095843_972.png",
-    "Pasted Image 20240530095643_944.png",
-    "Pasted Image 20240530094330_359.png",
-    "Pasted Image 20240530094111_747.png",
-    "Pasted Image 20240530093856_688.png",
-    "Pasted Image 20240530093234_614.png",
-    "Pasted Image 20240530093200_346.png",
-    "Pasted Image 20240530092946_587.png",
-    "Pasted Image 20240530092048_455.png",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
@@ -228,7 +218,6 @@
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册.annos",
     "计算机/Java技术栈/Netty/Netty 认识.md",
-    "理论/高等数学",
     "图床/未命名.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Netty/Netty底层实现.md",
@@ -236,7 +225,6 @@
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md"
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md"
   ]
 }
