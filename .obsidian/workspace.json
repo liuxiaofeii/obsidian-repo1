@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8801c8af8833c3",
+        "id": "bd0b25d5a7426d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "dd72584be3bb9d07",
+            "id": "9273d01bf53e1776",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -180,16 +180,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "dd72584be3bb9d07",
+  "active": "9273d01bf53e1776",
   "lastOpenFiles": [
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "计算机/全栈技术栈/全栈涉及技术栈图示.md",
     "计算机/全栈技术栈/images/Pasted Image 20240601130725_168.png",
     "计算机/全栈技术栈/images/Pasted Image 20240601125426_198.png",
-    "计算机/全栈技术栈/全栈涉及技术栈图示.md",
     "计算机/全栈技术栈/images/Pasted Image 20240601125441_200.png",
     "计算机/全栈技术栈/images",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/全栈技术栈/未命名.md",
-    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529100949_682.png",
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529103206_071.png",
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529112744_565.png",
@@ -198,7 +198,6 @@
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529104228_197.png",
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529102444_002.png",
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529101748_061.png",
-    "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240529101108_153.png",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
