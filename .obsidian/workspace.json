@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7fb540b0ce956d1",
+        "id": "311f5dabfda81d78",
         "type": "tabs",
         "children": [
           {
-            "id": "6e005e7752b50e30",
+            "id": "040595c9e3368c00",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -64,15 +64,14 @@
             }
           },
           {
-            "id": "5668f398365a952d",
+            "id": "a385efcf0db3c8a1",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,14 +175,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6e005e7752b50e30",
+  "active": "040595c9e3368c00",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "计算机/全栈技术栈/全栈涉及技术栈图示.md",
+    "conflict-files-obsidian-git.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "Pasted Image 20240530100459_043.png",
     "Pasted Image 20240530095843_972.png",

@@ -37,6 +37,7 @@
   "defaultPenMode": "never",
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
+  "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
@@ -81,6 +82,7 @@
   "fadeOutExcalidrawMarkup": false,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
+  "addDummyTextElement": false,
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -88,7 +90,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.3",
     "libraryItems": [
       {
         "status": "published",
@@ -8699,7 +8701,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.2.2",
+  "previousRelease": "2.2.3",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
