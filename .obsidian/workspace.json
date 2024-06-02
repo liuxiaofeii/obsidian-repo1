@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd0b25d5a7426d4c",
+        "id": "5cb48a6d79c36ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "9273d01bf53e1776",
+            "id": "ce88129a4cd58a6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9273d01bf53e1776",
+  "active": "ce88129a4cd58a6f",
   "lastOpenFiles": [
-    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
+    "计算机/标签库.md",
     "计算机/全栈技术栈/全栈涉及技术栈图示.md",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/全栈技术栈/images/Pasted Image 20240601130725_168.png",
     "计算机/全栈技术栈/images/Pasted Image 20240601125426_198.png",
     "计算机/全栈技术栈/images/Pasted Image 20240601125441_200.png",
