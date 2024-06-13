@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#5-人工智能技术栈",
+                "query": "tag:#1-Java技术栈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 1402.4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70ee9ed51338fb95",
+  "active": "8cdcd6f171db7f8d",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
