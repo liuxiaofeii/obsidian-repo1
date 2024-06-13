@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-2-线程安全/Java内存模型（JMM）",
+                "query": "tag:#1-Java技术栈/-2-线程安全/2-三大特性/操作原子性/原子类",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
