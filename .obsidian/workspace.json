@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-Redis/--4-可靠性",
+                "query": "tag:#2-数据库/-1-Redis/--5-数据一致性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
