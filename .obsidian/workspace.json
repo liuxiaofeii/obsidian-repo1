@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Spring/-2-底层原理/BeanDefinition的加载、解析、注册",
+                "query": "tag:#1-Spring/-2-底层原理/--3-IOC容器初始化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1060.5
+    "width": 1006.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cdcd6f171db7f8d",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
