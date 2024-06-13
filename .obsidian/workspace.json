@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/开发框架/1-Spring/-3-核心模块/--2-AOP/2-底层原理/123",
+                "query": "tag:#1-Java技术栈/开发框架/1-Spring/-3-核心模块/--2-AOP/3-底层原理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1252.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cdcd6f171db7f8d",
+  "active": "fcdaf78ed7ec736e",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
