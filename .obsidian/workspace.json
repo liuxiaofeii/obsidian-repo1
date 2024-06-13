@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/集合/List",
+                "query": "tag:#1-Java技术栈/集合/Map/实现类/HashMap/2-底层原理/扩容机制",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
