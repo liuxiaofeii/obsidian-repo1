@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-Redis/--2-常用命令",
+                "query": "tag:#2-数据库/非关系型/-2-Elasticsearch/-1-Redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70ee9ed51338fb95",
+  "active": "8cdcd6f171db7f8d",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
