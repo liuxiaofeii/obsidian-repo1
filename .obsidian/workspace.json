@@ -11,9 +11,11 @@
             "id": "ded585e8a71f863a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md"
+                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md",
+                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md",
+                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Python技术栈/过程笔记-图示.md"
+                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
               }
             }
           },
@@ -181,6 +183,10 @@
   },
   "active": "ded585e8a71f863a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-13 08.54.13.excalidraw.md",
+    "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
+    "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
+    "计算机/Python技术栈/过程笔记-图示.md",
     "标签库.md",
     "计算机/Java技术栈/Spring/Spring认识.md",
     "计算机/未命名",
@@ -189,7 +195,6 @@
     "计算机/Java技术栈/流程引擎/Flowable/入门.md",
     "计算机/Java技术栈/流程引擎/Activity/入门.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2024-06-13 08.54.13.excalidraw.md",
     "计算机/全栈技术栈/images/Pasted Image 20240601130725_168.png",
     "计算机/全栈技术栈/images",
     "Pasted Image 20240529101008_904.png",
@@ -203,8 +208,6 @@
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530093200_346.png",
     "计算机/Java技术栈/Netty/实战/images",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
-    "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
-    "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
@@ -213,7 +216,6 @@
     "计算机/全栈技术栈/项目经验/全栈企业网盘",
     "计算机/全栈技术栈/项目经验",
     "计算机/全栈技术栈",
-    "计算机/Python技术栈/过程笔记-图示.md",
     "计算机/Python技术栈/Python认识.md",
     "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Python技术栈",
