@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-3-JVM/--2-类的加载机制/双亲委派机制",
+                "query": "tag:#1-Java技术栈/-3-JVM/--1-运行时数据区的构成/线程共有/方法区/存放的常量池/class常量池",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcdaf78ed7ec736e",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
