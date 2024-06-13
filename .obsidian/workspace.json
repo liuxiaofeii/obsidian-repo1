@@ -11,8 +11,10 @@
             "id": "226391c228d40dd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20240529101008_904.png"
+              }
             }
           }
         ]
@@ -69,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pasted Image 20240529101008_904.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pasted Image 20240529101008_904.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pasted Image 20240529101008_904.png"
+              }
             }
           },
           {
@@ -176,6 +181,7 @@
   },
   "active": "226391c228d40dd1",
   "lastOpenFiles": [
+    "Pasted Image 20240529100949_682.png",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "Pasted Image 20240530100459_043.png",
     "Pasted Image 20240530095843_972.png",
