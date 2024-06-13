@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdce0ca26694435",
+        "id": "bdea1c75a56a99e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ab64bdeaf877ba94",
+            "id": "fcdaf78ed7ec736e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ifdef-CSDN博客",
+                "query": "tag:#1-Spring/底层原理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 616.5
+    "width": 1060.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cdcd6f171db7f8d",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
+    "4-Python.md",
     "标签库.md",
+    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
@@ -207,7 +205,6 @@
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530093200_346.png",
     "计算机/Java技术栈/Netty/实战/images",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
-    "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "计算机/Java技术栈/Netty/实战",
     "计算机/全栈技术栈/未命名.md",
@@ -223,7 +220,6 @@
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "图床/未命名.md",
     "Netty/Netty底层实现.md",
-    "理论/英语/字典/T/T.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md"
+    "理论/英语/字典/T/T.md"
   ]
 }
