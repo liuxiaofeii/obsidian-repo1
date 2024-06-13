@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/集合/Map/线程安全的Map/HashMap",
+                "query": "tag:#1-Java技术栈/集合/Map/线程安全的Map/CocurrentHashMap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
