@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/开发框架/2-SpringBoot/-2-底层原理",
+                "query": "tag:#2-数据库/-1-MySQL/锁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1402.4
+    "width": 1131.5
   },
   "left-ribbon": {
     "hiddenItems": {
