@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-2-普通集合/123",
+                "query": "tag:#1-Java技术栈/-2-普通集合/--3-Set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
