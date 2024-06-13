@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-MySQL/锁",
+                "query": "tag:#2-数据库/-1-MySQL/--3-事务隔离级别/MVCC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1131.5
+    "width": 995.5
   },
   "left-ribbon": {
     "hiddenItems": {
