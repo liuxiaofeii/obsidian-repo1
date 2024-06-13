@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-3-JVM/JVM",
+                "query": "tag:#1-Java技术栈/-3-JVM/--4-垃圾回收器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
