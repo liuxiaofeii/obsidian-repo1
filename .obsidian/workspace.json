@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-2-线程安全/2-三大特性/操作原子性/原子类",
+                "query": "tag:#1-Java技术栈/-3-JVM/JVM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
