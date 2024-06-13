@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a1fb270255ffdc",
+        "id": "7180474a88255cab",
         "type": "tabs",
         "children": [
           {
-            "id": "ded585e8a71f863a",
+            "id": "dfa02143ea5972e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "file": "标签库.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "file": "标签库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
+                "file": "标签库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md"
+                "file": "标签库.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded585e8a71f863a",
+  "active": "dfa02143ea5972e6",
   "lastOpenFiles": [
+    "计算机/Python技术栈/Python认识-图示.md",
+    "计算机/Java技术栈/Netty/Netty认识-图示.md",
+    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Excalidraw/Drawing 2024-06-13 08.54.13.excalidraw.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
@@ -208,7 +210,6 @@
     "计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530093200_346.png",
     "计算机/Java技术栈/Netty/实战/images",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
-    "计算机/Java技术栈/Netty/Netty认识-图示.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "理论/高等数学/同济大学高等数学第七版思维导图.md",
     "计算机/Java技术栈/Netty/实战",
@@ -217,7 +218,6 @@
     "计算机/全栈技术栈/项目经验",
     "计算机/全栈技术栈",
     "计算机/Python技术栈/Python认识.md",
-    "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Python技术栈",
     "理论/高等数学/未命名导图.md",
     "理论/高等数学/未命名思维导图.md",
@@ -225,7 +225,6 @@
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "图床/未命名.md",
-    "计算机/Java技术栈/Netty/底层实现/Netty IO多路复用.md",
     "Netty/Netty底层实现.md",
     "理论/英语/字典/T/T.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md"
