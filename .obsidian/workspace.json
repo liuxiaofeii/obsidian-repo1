@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-Redis/--5-数据一致性",
+                "query": "tag:#2-数据库/-1-Redis/--2-常用命令",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
