@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/开发框架/2-SpringBoot/-2-底层原理",
+                "query": "tag:#1-Java技术栈/开发框架/1-Spring/-2-底层原理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1369.5
+    "width": 1246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70ee9ed51338fb95",
+  "active": "8cdcd6f171db7f8d",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
