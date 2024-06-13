@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-Redis/--5-数据一致性",
+                "query": "tag:#2-数据库/-1-Redis/--4-可靠性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cdcd6f171db7f8d",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
