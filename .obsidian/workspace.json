@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-2-普通集合/--3-Set",
+                "query": "tag:#1-Java技术栈/-2-集合/2-并发集合/CopyOnWriteArrayList",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8cdcd6f171db7f8d",
+  "active": "fcdaf78ed7ec736e",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
