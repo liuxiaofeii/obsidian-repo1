@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/集合/Queue/LinkedList",
+                "query": "tag:#1-Java技术栈/集合/List",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
