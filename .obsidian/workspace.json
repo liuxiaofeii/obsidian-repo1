@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-3-线程安全",
+                "query": "tag:#1-Java技术栈/-1-基础/--1-String",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
