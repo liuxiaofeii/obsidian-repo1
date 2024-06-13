@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-3-JVM/--3-垃圾回收/3-垃圾回收算法",
+                "query": "tag:#1-Java技术栈/-4-开发框架",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70ee9ed51338fb95",
+  "active": "8cdcd6f171db7f8d",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
