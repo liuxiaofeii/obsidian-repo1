@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/非关系型/-2-Elasticsearch/-1-Redis",
+                "query": "tag:#2-数据库/非关系型/-2-Elasticsearch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 995.5
+    "width": 982.5
   },
   "left-ribbon": {
     "hiddenItems": {
