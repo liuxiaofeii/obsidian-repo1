@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e599a1559e6be899",
+        "id": "2dcf609bef72f98f",
         "type": "tabs",
         "children": [
           {
-            "id": "171318eeea4c295a",
+            "id": "1d48791361c42d58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机/Java技术栈/Spring/Spring认识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/Java技术栈/Spring/Spring认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/Java技术栈/Spring/Spring认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/Java技术栈/Spring/Spring认识.md"
+              }
             }
           },
           {
@@ -173,8 +181,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "1d48791361c42d58",
   "lastOpenFiles": [
+    "计算机/Java技术栈/Spring/Spring认识.md",
+    "计算机/Java技术栈/Spring",
     "计算机/Java技术栈/Shiro/入门.md",
     "计算机/Java技术栈/流程引擎/Flowable/入门.md",
     "计算机/Java技术栈/流程引擎/Activity/入门.md",
@@ -211,7 +221,6 @@
     "理论/高等数学/未命名思维导图.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册(OCR).pdf",
-    "理论/高等数学/同济大学高等数学第七版上册.pdf",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "图床/未命名.md",
@@ -219,7 +228,6 @@
     "Netty/Netty底层实现.md",
     "理论/英语/字典/T/T.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md"
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md"
   ]
 }
