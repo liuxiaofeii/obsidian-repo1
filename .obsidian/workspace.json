@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/-1-Redis",
+                "query": "tag:#1-Java技术栈/开发框架/2-SpringBoot/-2-底层原理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1027.5
+    "width": 1402.4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcdaf78ed7ec736e",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
     "4-Python.md",
     "标签库.md",
