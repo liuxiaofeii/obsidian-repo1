@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#6-Java面试题",
+                "query": "tag:#2-SpringBoot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1006.5
+    "width": 675.5
   },
   "left-ribbon": {
     "hiddenItems": {
