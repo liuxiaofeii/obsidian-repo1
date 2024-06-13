@@ -122,7 +122,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -180,7 +180,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dfa02143ea5972e6",
+  "active": "8cdcd6f171db7f8d",
   "lastOpenFiles": [
     "计算机/Python技术栈/Python认识-图示.md",
     "计算机/Java技术栈/Netty/Netty认识-图示.md",
