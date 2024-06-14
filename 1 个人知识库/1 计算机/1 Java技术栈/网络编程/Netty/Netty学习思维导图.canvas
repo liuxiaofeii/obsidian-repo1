@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b24e2a62d5c7aff5","type":"text","text":"[[Netty IO多路复用]]","x":45,"y":-110,"width":250,"height":60},
 		{"id":"7d3338c759dcc1a6","type":"text","text":"[[Netty 基本认识]]","x":-480,"y":32,"width":160,"height":50},
-		{"id":"e92480e8ad74c0e0","type":"text","text":"[[即时通讯系统（IM系统）开发]]","x":45,"y":240,"width":250,"height":60},
-		{"id":"423ebab3f0a08869","x":-480,"y":240,"width":250,"height":60,"type":"text","text":"实战"},
-		{"id":"9dcdf2c4e330f4f8","x":-840,"y":145,"width":250,"height":60,"type":"text","text":"Netty认识思维导图"},
-		{"id":"4e38a0de831a0b01","type":"text","text":"[[客户端和服务端一次完整的请求应答过程]]","x":60,"y":85,"width":250,"height":60}
+		{"id":"423ebab3f0a08869","type":"text","text":"实战","x":-480,"y":240,"width":160,"height":50},
+		{"id":"9dcdf2c4e330f4f8","type":"text","text":"Netty认识思维导图","x":-840,"y":145,"width":250,"height":60},
+		{"id":"4e38a0de831a0b01","type":"text","text":"[[客户端和服务端一次完整的请求应答过程]]","x":-130,"y":95,"width":320,"height":50},
+		{"id":"b24e2a62d5c7aff5","type":"text","text":"[[Netty IO多路复用]]","x":-130,"y":-80,"width":175,"height":50},
+		{"id":"e92480e8ad74c0e0","type":"text","text":"[[即时通讯系统（IM系统）开发]]","x":-130,"y":265,"width":255,"height":50}
 	],
 	"edges":[
 		{"id":"2ae864c3da28f893","fromNode":"7d3338c759dcc1a6","fromSide":"right","toNode":"b24e2a62d5c7aff5","toSide":"left"},

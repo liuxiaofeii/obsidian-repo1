@@ -15,25 +15,14 @@
               "state": {
                 "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习思维导图.canvas",
                 "viewState": {
-                  "x": -279.69117736816406,
-                  "y": 17.5,
+                  "x": -325,
+                  "y": 117.5,
                   "zoom": 0
                 }
               }
             }
-          },
-          {
-            "id": "e5e8ec1af3455956",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5e8ec1af3455956",
+  "active": "4356c220990f443a",
   "lastOpenFiles": [
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty IO多路复用.md",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习思维导图.canvas",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty IO多路复用.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/客户端和服务端一次完整的请求应答过程.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/即时通讯系统（IM系统）开发.md",
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files",
     "标签库.md",
     "1 个人知识库/1 计算机/1 Java技术栈/开发框架/Spring/Spring认识.md",
