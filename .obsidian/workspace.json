@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7d52c6745105ba",
+        "id": "08e3bfa808ec13b0",
         "type": "tabs",
         "children": [
           {
-            "id": "51fa6aefd7524752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "标签库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c54fcc61301694",
+            "id": "6cde0b041518c831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "未命名.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +198,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78c54fcc61301694",
+  "active": "6cde0b041518c831",
   "lastOpenFiles": [
     "标签库.md",
     "未命名.md",
