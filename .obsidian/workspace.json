@@ -11,8 +11,12 @@
             "id": "27c99fb52593d360",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "标签库.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "标签库.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "标签库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "标签库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "标签库.md"
+              }
             }
           },
           {
@@ -194,7 +204,10 @@
   },
   "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
-    "1 个人知识库/计算机/Java技术栈/未命名",
+    "1 个人知识库/计算机/Java技术栈/工具",
+    "1 个人知识库/计算机/Java技术栈/基础",
+    "1 个人知识库/计算机/Java技术栈/开发框架",
+    "1 个人知识库/计算机/Java技术栈/集合",
     "常用Obsidian快捷键.md",
     "未命名.md",
     "标签库.md",
@@ -219,12 +232,12 @@
     "1 个人知识库/计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
     "1 个人知识库/计算机/Python技术栈/过程笔记-图示.md",
-    "1 个人知识库/计算机/Java技术栈/Spring/Spring认识.md",
+    "1 个人知识库/计算机/Java技术栈/开发框架/Spring/Spring认识.md",
     "计算机/未命名",
-    "1 个人知识库/计算机/Java技术栈/Spring",
+    "1 个人知识库/计算机/Java技术栈/开发框架/Spring",
     "1 个人知识库/计算机/Java技术栈/Shiro/入门.md",
-    "1 个人知识库/计算机/Java技术栈/流程引擎/Flowable/入门.md",
-    "1 个人知识库/计算机/Java技术栈/流程引擎/Activity/入门.md",
+    "1 个人知识库/计算机/Java技术栈/工具/流程引擎/Flowable/入门.md",
+    "1 个人知识库/计算机/Java技术栈/工具/流程引擎/Activity/入门.md",
     "conflict-files-obsidian-git.md",
     "1 个人知识库/计算机/全栈技术栈/images/Pasted Image 20240601130725_168.png",
     "1 个人知识库/计算机/全栈技术栈/images",
@@ -236,10 +249,7 @@
     "1 个人知识库/计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530094111_747.png",
     "1 个人知识库/计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530093856_688.png",
     "1 个人知识库/计算机/Java技术栈/Netty/实战/images/Pasted Image 20240530093234_614.png",
-    "1 个人知识库/计算机/Java技术栈/Netty/实战/images",
-    "1 个人知识库/研究理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
     "1 个人知识库/研究理论/高等数学/同济大学高等数学第七版思维导图.md",
-    "1 个人知识库/计算机/Java技术栈/Netty/实战",
     "计算机/全栈技术栈/未命名.md"
   ]
 }
