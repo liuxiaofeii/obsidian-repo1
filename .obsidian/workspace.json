@@ -11,11 +11,14 @@
             "id": "dea7689313b09afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "标签库.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2-数据库/非关系型/-1-Redis/--5-数据一致性/分布式锁",
+                "query": "tag:#98-Java面试题/八股文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "标签库.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "标签库.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "标签库.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "标签库.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -184,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,18 +197,19 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "dea7689313b09afa",
   "lastOpenFiles": [
-    "未命名.md",
     "标签库.md",
+    "未命名.canvas",
+    "未命名.md",
     "常用Obsidian快捷键.md",
     "Drawing 2024-06-14 09.06.22.excalidraw.md",
     "images/Pasted Image 20240614090638_848.png",
