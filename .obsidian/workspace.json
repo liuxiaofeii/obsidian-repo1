@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 904.5
+    "width": 1342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +203,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70ee9ed51338fb95",
+  "active": "51fa6aefd7524752",
   "lastOpenFiles": [
     "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
