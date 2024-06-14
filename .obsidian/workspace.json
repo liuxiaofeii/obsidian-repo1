@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bdea1c75a56a99e8",
+        "id": "a15d9e7152eefb15",
         "type": "tabs",
         "children": [
           {
-            "id": "fcdaf78ed7ec736e",
+            "id": "82dadbd9fb96abc7",
             "type": "leaf",
             "state": {
-              "type": "keyboard-shortcuts-visualization",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "标签库.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "标签库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "标签库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "标签库.md"
+              }
             }
           },
           {
@@ -172,8 +180,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcdaf78ed7ec736e",
+  "active": "82dadbd9fb96abc7",
   "lastOpenFiles": [
+    "常用Obsidian快捷键.md",
     "标签库.md",
     "4-Python.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
@@ -218,7 +227,6 @@
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
     "图床/未命名.md",
-    "Netty/Netty底层实现.md",
-    "理论/英语/字典/T/T.md"
+    "Netty/Netty底层实现.md"
   ]
 }
