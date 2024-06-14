@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "标签库.md",
+                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-3-线程安全/2-三大特性/操作原子性/synchronized",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 774.5110359191895
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -93,7 +94,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "标签库.md"
+                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "标签库.md",
+                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "标签库.md",
+                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "标签库.md"
+                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md"
               }
             }
           },
@@ -188,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1023.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +203,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "51fa6aefd7524752",
   "lastOpenFiles": [
+    "标签库.md",
+    "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
+    "3",
+    "2",
     "1 个人知识库/计算机/全栈技术栈/全栈涉及技术栈图示.md",
     "1 个人知识库",
     "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
-    "标签库.md",
     "未命名.md",
     "常用Obsidian快捷键.md",
     "Drawing 2024-06-14 09.06.22.excalidraw.md",
@@ -247,9 +251,6 @@
     "1 个人知识库/研究理论/高等数学/同济大学高等数学第七版思维导图.md",
     "1 个人知识库/计算机/Java技术栈/Netty/实战",
     "计算机/全栈技术栈/未命名.md",
-    "1 个人知识库/计算机/全栈技术栈/项目经验/全栈企业网盘",
-    "1 个人知识库/计算机/全栈技术栈/项目经验",
-    "1 个人知识库/计算机/Python技术栈/Python认识.md",
-    "理论/高等数学/未命名导图.md"
+    "1 个人知识库/计算机/Python技术栈/Python认识.md"
   ]
 }
