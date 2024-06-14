@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-1-基础/--浅拷贝、深拷贝",
+                "query": "tag:#1-Java技术栈/-3-线程安全/2-三大特性/操作原子性/synchronized",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51fa6aefd7524752",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
     "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
