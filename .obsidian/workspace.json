@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78c54fcc61301694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "标签库.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "标签库.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "标签库.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "标签库.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -187,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 728.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,17 +214,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51fa6aefd7524752",
+  "active": "78c54fcc61301694",
   "lastOpenFiles": [
-    "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
     "标签库.md",
+    "未命名.md",
+    "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
     "3",
     "2",
     "1 个人知识库/计算机/全栈技术栈/全栈涉及技术栈图示.md",
     "1 个人知识库",
     "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
-    "未命名.md",
     "常用Obsidian快捷键.md",
     "Drawing 2024-06-14 09.06.22.excalidraw.md",
     "images/Pasted Image 20240614090638_848.png",
