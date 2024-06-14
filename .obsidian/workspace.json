@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b38871ee4a5c3df",
+        "id": "9565662045bbfda3",
         "type": "tabs",
         "children": [
           {
-            "id": "1d18c6078a00b9b6",
+            "id": "c4df594fa8ac4107",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
-                "mode": "source",
-                "source": false
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-Java技术栈/-2-集合/1-普通集合/--1-List/线程安全的List/CopyOnWriteArrayList",
+                "query": "tag:#2-数据库/关系型/-1-MySQL/--3-事务隔离级别",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md"
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md"
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md"
               }
             }
           },
@@ -202,11 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d18c6078a00b9b6",
+  "active": "c4df594fa8ac4107",
   "lastOpenFiles": [
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 基本认识.md",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md",
+    "标签库.md",
     "1 个人知识库/1 计算机/1 Java技术栈/开发框架/Spring/Spring认识.md",
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识.md",
-    "标签库.md",
     "1 个人知识库/1 计算机/1 Java技术栈/数据库/非关系型/Redis",
     "1 个人知识库/1 计算机/1 Java技术栈/数据库/关系型/MySQL",
     "1 个人知识库/1 计算机/1 Java技术栈/数据库/非关系型",
@@ -230,7 +230,6 @@
     "4-Python.md",
     "1 个人知识库/1 计算机/3 独立开发/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识-图示.md",
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty认识-图示.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/底层实现/Netty IO多路复用.md",
     "Excalidraw/Drawing 2024-06-13 08.54.13.excalidraw.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/实战/即时通讯系统（IM系统）开发.md",
@@ -249,7 +248,6 @@
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/实战/images/Pasted Image 20240530094111_747.png",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/实战/images/Pasted Image 20240530093856_688.png",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/实战/images/Pasted Image 20240530093234_614.png",
-    "1 个人知识库/2 研究理论/高等数学/同济大学高等数学第七版思维导图.md",
-    "计算机/全栈技术栈/未命名.md"
+    "1 个人知识库/2 研究理论/高等数学/同济大学高等数学第七版思维导图.md"
   ]
 }
