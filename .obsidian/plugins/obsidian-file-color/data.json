@@ -1,6 +1,41 @@
 {
-  "cascadeColors": false,
-  "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "mxTGJYCm9eJdNT3DWf0Wb",
+      "name": "",
+      "value": "#3ebbe5"
+    },
+    {
+      "id": "5tsryv3wfoCVwOa48-Wq5",
+      "name": "",
+      "value": "#86f3c4"
+    },
+    {
+      "id": "4Twca87psDqNWHHmOKmf4",
+      "name": "",
+      "value": "#f5ccf2"
+    },
+    {
+      "id": "0hQEar116F9ti6QL5lfJn",
+      "name": "",
+      "value": "#fbacac"
+    },
+    {
+      "id": "FYzGBMB_qmOxOOhM0HtEN",
+      "name": "",
+      "value": "#f1ffad"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1 个人知识库",
+      "color": "mxTGJYCm9eJdNT3DWf0Wb"
+    },
+    {
+      "path": "1 个人知识库/计算机",
+      "color": "mxTGJYCm9eJdNT3DWf0Wb"
+    }
+  ]
 }
