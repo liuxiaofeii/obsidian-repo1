@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "./images",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true
 }
