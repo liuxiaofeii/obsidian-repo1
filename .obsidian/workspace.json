@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
+                "file": "标签库.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#1-Java技术栈/-2-集合/1-普通集合/--1-List/线程安全的List/CopyOnWriteArrayList",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 328.51103591918945
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -94,7 +93,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md"
+                "file": "标签库.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
+                "file": "标签库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
+                "file": "标签库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md"
+                "file": "标签库.md"
               }
             }
           },
@@ -184,8 +183,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +203,8 @@
   },
   "active": "51fa6aefd7524752",
   "lastOpenFiles": [
-    "标签库.md",
     "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
+    "标签库.md",
     "3",
     "2",
     "1 个人知识库/计算机/全栈技术栈/全栈涉及技术栈图示.md",
