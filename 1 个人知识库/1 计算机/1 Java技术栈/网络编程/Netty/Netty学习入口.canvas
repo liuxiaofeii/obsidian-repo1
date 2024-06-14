@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"212343539fbedffb","x":-480,"y":-100,"width":290,"height":205,"type":"group","label":"入口"},
+		{"id":"b24e2a62d5c7aff5","type":"text","text":"[[Netty IO多路复用]]","x":45,"y":-110,"width":250,"height":60},
+		{"id":"e92480e8ad74c0e0","type":"text","text":"[[即时通讯系统（IM系统）开发]]","x":45,"y":85,"width":250,"height":60},
+		{"id":"7d3338c759dcc1a6","type":"text","text":"[[Netty 基本认识]]","x":-460,"y":-80,"width":250,"height":83},
+		{"id":"4e38a0de831a0b01","type":"text","text":"[[Netty认识-图示]]","x":-460,"y":25,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1d708b424576f491","fromNode":"212343539fbedffb","fromSide":"right","toNode":"b24e2a62d5c7aff5","toSide":"left"},
+		{"id":"f4ad0b10172745f6","fromNode":"212343539fbedffb","fromSide":"right","toNode":"e92480e8ad74c0e0","toSide":"left"}
+	]
+}
