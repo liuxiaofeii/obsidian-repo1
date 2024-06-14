@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08e3bfa808ec13b0",
+        "id": "7a9729fb0cff40d8",
         "type": "tabs",
         "children": [
           {
-            "id": "6cde0b041518c831",
+            "id": "27c99fb52593d360",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,10 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cde0b041518c831",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
-    "标签库.md",
+    "1 个人知识库/计算机/Java技术栈/未命名",
+    "常用Obsidian快捷键.md",
     "未命名.md",
+    "标签库.md",
     "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
     "3",
     "2",
@@ -213,7 +205,6 @@
     "1 个人知识库",
     "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
-    "常用Obsidian快捷键.md",
     "Drawing 2024-06-14 09.06.22.excalidraw.md",
     "images/Pasted Image 20240614090638_848.png",
     "images",
@@ -249,7 +240,6 @@
     "1 个人知识库/研究理论/高等数学/同济大学高等数学第七版上册(OCR).annos",
     "1 个人知识库/研究理论/高等数学/同济大学高等数学第七版思维导图.md",
     "1 个人知识库/计算机/Java技术栈/Netty/实战",
-    "计算机/全栈技术栈/未命名.md",
-    "1 个人知识库/计算机/Python技术栈/Python认识.md"
+    "计算机/全栈技术栈/未命名.md"
   ]
 }
