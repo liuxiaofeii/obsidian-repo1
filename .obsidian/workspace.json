@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc5d294264c14dc",
+        "id": "6a7d52c6745105ba",
         "type": "tabs",
         "children": [
           {
-            "id": "dea7689313b09afa",
+            "id": "51fa6aefd7524752",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "标签库.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#98-Java面试题/八股文",
+                "query": "tag:#1-Java技术栈/-1-基础/--浅拷贝、深拷贝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 420.51103591918945
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -96,7 +94,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "未命名.canvas"
+                "file": "标签库.md"
               }
             }
           },
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "标签库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "标签库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "标签库.md"
               }
             }
           },
@@ -191,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 904.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +203,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dea7689313b09afa",
+  "active": "70ee9ed51338fb95",
   "lastOpenFiles": [
-    "标签库.md",
+    "Drawing 2024-06-14 09.25.40.excalidraw.md",
     "未命名.canvas",
+    "标签库.md",
     "未命名.md",
     "常用Obsidian快捷键.md",
     "Drawing 2024-06-14 09.06.22.excalidraw.md",
@@ -251,7 +250,6 @@
     "计算机/全栈技术栈/项目经验",
     "计算机/全栈技术栈",
     "计算机/Python技术栈/Python认识.md",
-    "理论/高等数学/未命名导图.md",
-    "理论/高等数学/未命名思维导图.md"
+    "理论/高等数学/未命名导图.md"
   ]
 }
