@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4042afda2a76186",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-14 08.58.45.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "标签库.md",
+                "file": "Excalidraw/Drawing 2024-06-14 08.58.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "标签库.md",
+                "file": "Excalidraw/Drawing 2024-06-14 08.58.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "标签库.md"
+                "file": "Excalidraw/Drawing 2024-06-14 08.58.45.excalidraw.md"
               }
             }
           },
@@ -176,14 +187,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "82dadbd9fb96abc7",
+  "active": "c4042afda2a76186",
   "lastOpenFiles": [
-    "常用Obsidian快捷键.md",
     "标签库.md",
+    "Excalidraw/Drawing 2024-06-14 08.58.45.excalidraw.md",
+    "常用Obsidian快捷键.md",
     "4-Python.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Python技术栈/Python认识-图示.md",
@@ -226,7 +238,6 @@
     "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md",
     "理论/高等数学/同济大学高等数学第七版上册-annotate.md",
     "计算机/Java技术栈/Netty/Netty 认识.md",
-    "图床/未命名.md",
-    "Netty/Netty底层实现.md"
+    "图床/未命名.md"
   ]
 }
