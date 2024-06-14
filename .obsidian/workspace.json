@@ -11,8 +11,10 @@
             "id": "ad6a07363beeae0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md"
+              }
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -88,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md"
+              }
             }
           },
           {
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md"
+              }
             }
           },
           {
@@ -201,8 +210,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5390da7583ff7ec6",
+  "active": "ad6a07363beeae0a",
   "lastOpenFiles": [
+    "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md",
+    "1 个人知识库/3 算法/leetcode",
+    "1 个人知识库/3 算法",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习思维导图.canvas",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty IO多路复用.md",
@@ -219,8 +231,6 @@
     "1 个人知识库/1 计算机/1 Java技术栈/数据库",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程",
     "1 个人知识库/1 计算机/1 Java技术栈/工具",
-    "1 个人知识库/1 计算机/1 Java技术栈/基础",
-    "1 个人知识库/1 计算机/1 Java技术栈/开发框架",
     "常用Obsidian快捷键.md",
     "未命名.md",
     "1-Java技术栈 -2-集合 1-普通集合 --1-List 线程安全的List CopyOnWriteArrayList.md",
