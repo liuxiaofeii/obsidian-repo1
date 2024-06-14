@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58b3b063758e8d15",
+        "id": "6b38871ee4a5c3df",
         "type": "tabs",
         "children": [
           {
-            "id": "9bba0cec09fcca26",
+            "id": "1d18c6078a00b9b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty 认识.md"
+              }
             }
           },
           {
@@ -177,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 728.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bba0cec09fcca26",
+  "active": "1d18c6078a00b9b6",
   "lastOpenFiles": [
+    "1 个人知识库/1 计算机/1 Java技术栈/开发框架/Spring/Spring认识.md",
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识.md",
     "标签库.md",
     "1 个人知识库/1 计算机/1 Java技术栈/数据库/非关系型/Redis",
@@ -225,7 +236,6 @@
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/实战/即时通讯系统（IM系统）开发.md",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
     "1 个人知识库/1 计算机/2 Python技术栈/过程笔记-图示.md",
-    "1 个人知识库/1 计算机/1 Java技术栈/开发框架/Spring/Spring认识.md",
     "1 个人知识库/1 计算机/1 Java技术栈/工具/Shiro/入门.md",
     "1 个人知识库/1 计算机/1 Java技术栈/工具/流程引擎/Flowable/入门.md",
     "1 个人知识库/1 计算机/1 Java技术栈/工具/流程引擎/Activity/入门.md",
