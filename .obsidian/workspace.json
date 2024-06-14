@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcaccc8482ad8ad",
+        "id": "f16f5d3f188b5da1",
         "type": "tabs",
         "children": [
           {
-            "id": "4356c220990f443a",
+            "id": "ad6a07363beeae0a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习思维导图.canvas",
-                "viewState": {
-                  "x": -325,
-                  "y": 966.4699322905219,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -186,13 +178,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "eb9d8a5f4bd1107f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +203,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "4356c220990f443a",
+  "active": "eb9d8a5f4bd1107f",
   "lastOpenFiles": [
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习思维导图.canvas",
