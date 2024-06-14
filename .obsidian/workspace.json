@@ -4,48 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9565662045bbfda3",
+        "id": "2dcaccc8482ad8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c4df594fa8ac4107",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/即时通讯系统（IM系统）开发.md"
-              }
-            }
-          },
-          {
-            "id": "62c36f69266771f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "872e5246dfe58cb9",
+            "id": "4356c220990f443a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习入口.canvas",
                 "viewState": {
-                  "x": -335,
-                  "y": 55,
+                  "x": -92.5,
+                  "y": 17.5,
                   "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,14 +205,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "872e5246dfe58cb9",
+  "active": "4356c220990f443a",
   "lastOpenFiles": [
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/即时通讯系统（IM系统）开发.md",
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty IO多路复用.md",
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/客户端和服务端一次完整的请求应答过程.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/Netty学习入口.canvas",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/即时通讯系统（IM系统）开发.md",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty 基本认识.md",
+    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty IO多路复用.md",
     "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files",
-    "1 个人知识库/1 计算机/1 Java技术栈/网络编程/Netty/files/Netty认识-图示.md",
     "标签库.md",
     "1 个人知识库/1 计算机/1 Java技术栈/开发框架/Spring/Spring认识.md",
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识.md",
