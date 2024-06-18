@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c25fd69d5e684e",
+        "id": "84ca6484d406c4ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ee45805ebf2c0f",
+            "id": "b3f9de7612a64028",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 258.5110321044922
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -155,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a0ee45805ebf2c0f",
+  "active": "b3f9de7612a64028",
   "lastOpenFiles": [
+    "计算机/标签库.md",
+    "计算机/Python技术栈/过程笔记-图示.md",
+    "1 个人知识库/1 计算机/标签库.md",
+    "未命名.canvas",
     "conflict-files-obsidian-git.md",
     "1 个人知识库/3 算法/leetcode/53. 最大子数组和.md",
     "1 个人知识库/3 算法/leetcode",
@@ -214,14 +217,11 @@
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识.md",
     "1 个人知识库/1 计算机/2 Python技术栈/过程笔记-图示.md",
     "1 个人知识库/1 计算机/2 Python技术栈/Python认识-图示.md",
-    "1 个人知识库/1 计算机/标签库.md",
     "计算机/全栈技术栈/全栈涉及技术栈图示.md",
-    "计算机/标签库.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/Java技术栈/Netty/实战/即时通讯系统（IM系统）开发.md",
     "计算机/全栈技术栈/未命名.md",
     "Excalidraw/Drawing 2024-06-01 12.44.17.excalidraw.md",
-    "理论/高等数学/同济大学高等数学第七版思维导图.md",
-    "理论/高等数学/同济大学高等数学第七版上册(OCR)-annotate.md"
+    "理论/高等数学/同济大学高等数学第七版思维导图.md"
   ]
 }
