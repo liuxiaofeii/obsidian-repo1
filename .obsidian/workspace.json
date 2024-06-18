@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb48a6d79c36ca2",
+        "id": "5d344fee14c36b03",
         "type": "tabs",
         "children": [
           {
-            "id": "ce88129a4cd58a6f",
+            "id": "96dca75786016eb9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.5110321044922
+    "width": 200
   },
   "right": {
     "id": "305f3fdbb4d3238d",
@@ -92,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机/全栈技术栈/全栈涉及技术栈图示.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +173,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ce88129a4cd58a6f",
+  "active": "5390da7583ff7ec6",
   "lastOpenFiles": [
-    "计算机/标签库.md",
     "计算机/全栈技术栈/全栈涉及技术栈图示.md",
+    "计算机/标签库.md",
     "计算机/全栈技术栈/项目经验/全栈企业网盘/全栈企业网盘开发过程.md",
     "计算机/全栈技术栈/images/Pasted Image 20240601130725_168.png",
     "计算机/全栈技术栈/images/Pasted Image 20240601125426_198.png",
