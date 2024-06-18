@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -9,7 +9,6 @@
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
   "autosave": true,
-  "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -83,6 +82,7 @@
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "addDummyTextElement": false,
+  "zoteroCompatibility": false,
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -90,7 +90,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.3",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.6",
     "libraryItems": [
       {
         "id": "GdfRypLiMcQT1jQMqY8TB",
@@ -225,7 +225,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#ffffff",
             "width": 69.7307951332939,
-            "height": 85.63896132339885,
+            "height": 85.63896132339886,
             "seed": 166131938,
             "groupIds": [
               "XEfyff8G-I2aagfRhDvkj"
@@ -552,7 +552,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#1e1e1e",
             "width": 41.48178530950225,
-            "height": 22.936323368818584,
+            "height": 22.93632336881858,
             "seed": 2113133054,
             "groupIds": [
               "huodQ1go7Nx-V3wR4yJra",
@@ -1076,7 +1076,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#1e1e1e",
             "width": 26.795800858763993,
-            "height": 39.116819943164145,
+            "height": 39.11681994316414,
             "seed": 605022974,
             "groupIds": [
               "paR4KwIxOhqQ8fHWMHIOV",
@@ -3621,7 +3621,7 @@
             "y": -111.2412296779037,
             "strokeColor": "#000000",
             "backgroundColor": "#fa5252",
-            "width": 61.08387049129215,
+            "width": 61.08387049129216,
             "height": 145.71814888284152,
             "seed": 1653027015,
             "groupIds": [
@@ -3777,7 +3777,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#964b00",
             "width": 40.31328473767184,
-            "height": 14.228218142707709,
+            "height": 14.228218142707707,
             "seed": 72446183,
             "groupIds": [
               "kMWCK9B9aJxUq9X5AgIfu"
@@ -4410,7 +4410,7 @@
             "y": 258.2682367586341,
             "strokeColor": "#000000",
             "backgroundColor": "#868e96",
-            "width": 77.72540821576165,
+            "width": 77.72540821576166,
             "height": 80.56902071146021,
             "seed": 1615015975,
             "groupIds": [
@@ -4820,7 +4820,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#fa5252",
             "width": 25.37520986244107,
-            "height": 15.77947936807991,
+            "height": 15.779479368079908,
             "seed": 1299405193,
             "groupIds": [
               "tw9UlYdtqiIyaG-qWxcY4",
@@ -9976,8 +9976,8 @@
             "y": -328.65924544436956,
             "strokeColor": "#000000",
             "backgroundColor": "#40c057",
-            "width": 60.84321285776096,
-            "height": 58.28139336901313,
+            "width": 60.84321285776093,
+            "height": 58.281393369013124,
             "seed": 1585615281,
             "groupIds": [
               "JNj8Nb_S4GxSGb5xV3HdW",
@@ -11416,7 +11416,7 @@
             "strokeColor": "#343a40",
             "backgroundColor": "#868e96",
             "width": 62.66972381880964,
-            "height": 26.812304520418365,
+            "height": 26.81230452041837,
             "seed": 851773734,
             "groupIds": [
               "-dCmSCcAcb79zimUwpJvs"
@@ -28484,7 +28484,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.2.3",
+  "previousRelease": "2.2.6",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -29127,5 +29127,6 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
-  "isDebugMode": false
+  "isDebugMode": false,
+  "autosaveInterval": 15000
 }

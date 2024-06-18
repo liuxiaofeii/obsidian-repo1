@@ -1,0 +1,3 @@
+1. 选中笔记，按住ctrl键，悬浮预览
+2. 绘画文件：双击则可以拖动曲线
+3. 自动编号：打开markdown文件，然后ctrl+p，选择number heading...show options
